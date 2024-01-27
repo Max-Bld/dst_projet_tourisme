@@ -1,6 +1,6 @@
-# dst_projet_tourisme
+# Projet Application Agent de Voyage
 
-Repository du projet tourisme "Application Agent de Voyage" de DST.
+Repository du projet tourisme "Application Agent de Voyage" de DataScientest.
 
 Le dossier **docs** contient la documentation produite par le groupe tout au long du projet.
 
