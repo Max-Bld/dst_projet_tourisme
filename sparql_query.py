@@ -14,9 +14,9 @@ g = Graph()
 g.parse("data/flux-19287-202401180748.ttl")
 
 q = """
-    SELECT DISTINCT ?class
+    SELECT DISTINCT ?classes
     WHERE {
-        ?subject rdf:type ?class .
+        ?subject rdf:type ?classes .
     }
 """
 
@@ -24,4 +24,4 @@ q_response = g.query(q)
 
 #%%
 for row in q_response:
-    print(row)
+    print(f"{row.classes}")
