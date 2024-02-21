@@ -18,8 +18,5 @@ q = """
     }
 """
 
-results = g.query(q)
+data = g.query(q)
 
-
-for i in results:
-    print(i.lat)

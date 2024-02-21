@@ -16,73 +16,48 @@ import math
 import time
 import pandas as pd
 import warnings 
-from extract_data import results
 
 warnings.filterwarnings("ignore") # filters out the warnings
-
 
 #%% Data Loading
 
     # My random geolocalisation point and perimeter
 
-entree=input("""Choisissez le mode de géolocalisation :
-    
-    (a) manuel
-    (b) aléatoire
-""")
 
-if entree=="a":
-    
-    # My manual geolocalisation point and perimeter
-    
-    latitude = float(input("Choisissez une latitude : "))
-    longitude = float(input("Choisissez une longitude : "))
-    perimetre = float(input("Choisissez le périmètre de la zone : "))
+def cli_test(data):
+    entree=input("""Choisissez le mode de géolocalisation :
+        
+        (a) manuel
+        (b) aléatoire
+        (c) data
+    """)
 
-elif entree=="b":
+    if entree=="a":
+        
+        # My manual geolocalisation point and perimeter
+        
+        latitude = float(input("Choisissez une latitude : "))
+        longitude = float(input("Choisissez une longitude : "))
+        perimetre = float(input("Choisissez le périmètre de la zone : "))
 
-    latitude = random.uniform(47.9,49.5)
-    longitude = random.uniform(5.0,5.8)
-    perimetre = random.uniform(0.2,0.3)
-    
-    print(f"Ma géolocalisation générée aléatoirement dans le département de la Meuse : \n{latitude}, {longitude}")
-    print(f"\nMon périmètre de déplacement généré aléatoirement : \n{perimetre}")
+    elif entree=="b":
 
-else:
-    print("Mauvaise entrée.")
-    exit()
+        latitude = random.uniform(47.9,49.5)
+        longitude = random.uniform(5.0,5.8)
+        perimetre = random.uniform(0.2,0.3)
+        
+        print(f"Ma géolocalisation générée aléatoirement dans le département de la Meuse : \n{latitude}, {longitude}")
+        print(f"\nMon périmètre de déplacement généré aléatoirement : \n{perimetre}")
 
-maLatLon = (latitude, longitude)
+    elif entree=="c":
 
-    # Locations dataset (fake or real)
+        for i in data:
+            print("\n\n\n Nom du restaurant :",i.name)
+            print("\n Latitude : ",i.lat)
+            print("\n Longitude :",i.lon)
 
-data = results # va contenir le jeu de données
+    else:
+        print("Mauvaise entrée.")
+        exit()
 
-
-
-entree2=input("""
-Voici les jeux de données, cliquez pour continuer :
-    
-""")
-
-
-for i in data:
-    print("\n\n\n Nom du restaurant :",i.name)
-    print("\n Latitude : ",i.lat)
-    print("\n Longitude :",i.lon)
-
-# Fake geolocalisation dataset
-"""
-fake_geo_data = []
-
-for n in range(30):
-    latitude = random.uniform(-90,90)
-    longitude = random.uniform(-180,180)
-    fake_geo_data.append((latitude, longitude))
-data = fake_geo_data
-
-print("\nLes coordonnées des points qui vont être affichés sur la carte :")
-time.sleep(2)
-for n in data:
-    print(n)
-    time.sleep(0.01)"""
+    #maLatLon = (latitude, longitude)
