@@ -151,11 +151,10 @@ name = str(row.label)
 #%%% Géolocalisation et addresse
 
 q = """
-    SELECT ?lat ?lon
+    SELECT ?properties ?objects
     WHERE {
         <https://data.datatourisme.fr/10/ff109d76-1293-3d06-b324-7e4ee19f1cf4> <https://www.datatourisme.fr/ontology/core#isLocatedAt> ?localisationuri.
-        ?localisationuri <http://schema.org/geo> ?geouri.
-        ?geouri <http://schema.org/latitude> ?lat ; <http://schema.org/longitude> ?lon.
+        ?localisationuri ?properties ?objects.
         
     }
 """
@@ -163,10 +162,10 @@ q = """
 q_response = g.query(q)
 
 for row in q_response:
-    print(f"{row.lat} {row.lon}")
+    print(f"{row.properties} {row.objects}")
     
-latitude=str(row.lat)
-longitude=str(row.lon)
+# latitude=str(row.lat)
+# longitude=str(row.lon)
     
 #%%
 
