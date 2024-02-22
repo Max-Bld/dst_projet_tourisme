@@ -8,7 +8,7 @@ import geopy.distance
 
 
 
-def visualize_data(data, latitude_user, longitude_user):
+def visualize_data(data, latitude_user, longitude_user, perimetre_user):
 
     coords_user = (latitude_user, longitude_user)
 
@@ -21,7 +21,7 @@ def visualize_data(data, latitude_user, longitude_user):
         lon = row.lon
 
         coords_resto = (row.lat, row.lon)
-        distance = geopy.distance.geodesic(coords_user, coords_resto).km
+        distance = int(geopy.distance.geodesic(coords_user, coords_resto).km)
 
         popup_description = name + "\n\n" + "distance en km :" + str(distance)
 
@@ -33,17 +33,17 @@ def visualize_data(data, latitude_user, longitude_user):
         ).add_to(m)
 
 
-    radius = 10000 #chercher comment convertir les méridiens de périmetre en metres
+    #le radius est le rayon en metres
     folium.Circle(
         location=[latitude_user, longitude_user],
-        radius=radius,
+        radius=perimetre_user,
         color="black",
         weight=1,
         fill_opacity=0.6,
         opacity=1,
         fill_color="green",
         fill=False,  # gets overridden by fill_color
-        popup="{} meters".format(radius),
+        popup="{} meters".format(perimetre_user),
         tooltip="I am in meters",
     ).add_to(m)
 

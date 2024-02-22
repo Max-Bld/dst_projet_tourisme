@@ -4,6 +4,6 @@ from visualisation_data import visualize_data
 
 
 latitude_user, longitude_user, perimetre_user = cli_test(data)
-m = visualize_data(data, latitude_user, longitude_user)
-m.save("test_print4.html")
+m = visualize_data(data, latitude_user, longitude_user, perimetre_user)
+m.save("test_print5.html")
 

@@ -45,7 +45,7 @@ def cli_test(data):
         
         latitude_user = float(input("Choisissez une latitude : "))
         longitude_user = float(input("Choisissez une longitude : "))
-        perimetre_user = float(input("Choisissez le périmètre de la zone : "))
+        perimetre_user = float(input("Choisissez le périmètre de la zone en mètres : "))
 
     elif entree=="b":
 
@@ -53,7 +53,7 @@ def cli_test(data):
 
         latitude_user = random.uniform(47.9,49.5)
         longitude_user = random.uniform(5.0,5.8)
-        perimetre_user = random.uniform(0.2,0.3)
+        perimetre_user = random.uniform(7000,15000)
         
         print(f"Ma géolocalisation générée aléatoirement dans le département de la Meuse : \n{latitude_user}, {longitude_user}")
         print(f"\nMon périmètre de déplacement généré aléatoirement : \n{perimetre_user}")
