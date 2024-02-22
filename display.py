@@ -36,9 +36,9 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
 
 
         coords_resto = (lat, lon)
-        distance = int(geopy.distance.geodesic(coords_user, coords_resto).km)
+        #distance = int(geopy.distance.geodesic(coords_user, coords_resto).km)
 
-        popup_description = name + "\n\n" + "distance en km :" + str(distance)
+        popup_description = name + "\n\n" + "distance en km :" #+ str(distance)
 
         folium.Marker(
             location=[lat, lon],

@@ -14,26 +14,10 @@ from rdflib import Graph
 
 def sparql_query(query_element, data):
     
-        # Custom query
+    select = "SELECT ?name ?lat ?lon "
+    where = "WHERE {?restaurant rdf:type core:"+query_element+". ?restaurant rdfs:label ?name. ?restaurant core:isLocatedAt ?localisationuri. ?localisationuri schema1:geo ?geouri. ?geouri schema1:latitude ?lat ; schema1:longitude ?lon.}"
+    q = select+where
     
-    # select = "SELECT ?name ?lat ?lon "
-    # where = "WHERE {?restaurant rdf:type core:Restaurant. ?restaurant rdfs:label ?name. ?restaurant core:isLocatedAt ?localisationuri. ?localisationuri schema1:geo ?geouri. ?geouri schema1:latitude ?lat ; schema1:longitude ?lon.}"
-    # q = select+where
+    queried_data = data.query(q)
     
-        # Pre-defined query
-        
-    q = """
-        SELECT ?name ?lat ?lon
-        WHERE {
-            ?restaurant rdf:type core:Restaurant.
-            ?restaurant rdfs:label ?name.
-            ?restaurant core:isLocatedAt ?localisationuri.
-            ?localisationuri schema1:geo ?geouri.
-            ?geouri schema1:latitude ?lat ; schema1:longitude ?lon.
-            
-        }
-    """
-    
-    filtered_data = data.query(q)
-    
-    return filtered_data
+    return queried_data

@@ -13,9 +13,11 @@ la requête SPARQL.
 """
 
 from sys import exit
-# from generate import latitude_user, longitude_user, perimetre_user
+from time import sleep
+from display import visualize_data
 
-def interface_utilisateur(latitude_user, longitude_user, perimetre_user):
+
+def se_geolocaliser(latitude_user, longitude_user):
     
         # Géolocalisation de l'utilisateur
     
@@ -41,8 +43,10 @@ def interface_utilisateur(latitude_user, longitude_user, perimetre_user):
         
         print("Mauvaise entrée.")
         exit()
-    
-        # Périmètre
+
+
+
+def choisir_perimetre(perimetre_user):
     
     entree=input("""\nChoisissez le périmètre :
         
@@ -58,7 +62,6 @@ def interface_utilisateur(latitude_user, longitude_user, perimetre_user):
             print("Mauvaise entrée.")
             exit()
     
-    
     elif entree=="b":
         
         print(f"\nMon périmètre de déplacement généré aléatoirement : {perimetre_user}")
@@ -67,9 +70,10 @@ def interface_utilisateur(latitude_user, longitude_user, perimetre_user):
         
         print("Mauvaise entrée.")
         exit()
-        
+
+
     
-        # Préférences de l'utilisateur
+def choisir_preferences():
         
     entree=input("""\nQue cherchez vous :
         (a) Restaurant
@@ -88,3 +92,24 @@ def interface_utilisateur(latitude_user, longitude_user, perimetre_user):
         exit()
         
     return query_element
+
+
+
+def retourner_lieux(queried_data):
+    input("\nAppuyez sur une touche pour afficher le nom des lieux et leur géolocalisation :")
+    for row in queried_data:
+        print(f"{row.name} - {row.lat},{row.lon}")
+        sleep(0.01)
+        
+def retourner_distances(queried_data, euclidean_distances):
+    i=0
+    
+    input("\nAppuyez sur une touche pour afficher le noms des lieux et leur distance :")
+    for row in queried_data:
+        print(f"{row.name} - {euclidean_distances[i]}")
+        i=+1
+        sleep(0.01)
+        
+def afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user):
+    input("\nAppuyez sur une touche pour afficher la carte :")
+    visualize_data(queried_data, latitude_user, longitude_user, perimetre_user)

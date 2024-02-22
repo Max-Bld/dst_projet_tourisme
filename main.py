@@ -10,18 +10,21 @@ Orchestre les différents modules.
 """
 
 from generate import latitude_user, longitude_user, perimetre_user
-from cli import interface_utilisateur
+from cli import se_geolocaliser, choisir_perimetre, choisir_preferences, retourner_lieux, retourner_distances, afficher_carte
 from extract import data
 from query import sparql_query
-# from compute import distances_euclidiennes
-# from display import visualize_data
+from compute import distances_euclidiennes
 
-query_element = interface_utilisateur(latitude_user, longitude_user, perimetre_user)
+se_geolocaliser(latitude_user, longitude_user)
+choisir_perimetre(perimetre_user)
+query_element = choisir_preferences()
 
-flux_datatourisme = data
+queried_data = sparql_query(query_element, data)
 
-queried_flux = sparql_query(query_element, flux_datatourisme)
+retourner_lieux(queried_data)
 
-# computed_data = distances_euclidiennes(latitude_user, longitude_user, queried_flux)
+computed_data = distances_euclidiennes(latitude_user, longitude_user, queried_data)
 
-# visualize_data(data, latitude_user, longitude_user, perimetre_user)
+retourner_distances(queried_data, computed_data)
+
+afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user)
