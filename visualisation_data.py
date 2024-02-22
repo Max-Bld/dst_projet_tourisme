@@ -2,9 +2,13 @@ import rdflib
 from rdflib import Graph
 import folium
 import random
+import geopy.distance
+
 
 latitude_user = random.uniform(47.9,49.5)
 longitude_user = random.uniform(5.0,5.8)
+
+coords_user = (latitude_user, longitude_user)
 
 def visualize_data(data):
 
@@ -17,10 +21,13 @@ def visualize_data(data):
         lat = row.lat
         lon = row.lon
 
+        coords_resto = (row.lat, row.lon)
+        distance = geopy.distance.geodesic(coords_user, coords_resto).km
+
         folium.Marker(
             location=[lat, lon],
             tooltip=name,
-            popup=name,
+            popup=distance,
             icon=folium.Icon(color="blue"),
         ).add_to(m)
 
