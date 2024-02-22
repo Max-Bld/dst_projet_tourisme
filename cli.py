@@ -25,39 +25,43 @@ warnings.filterwarnings("ignore") # filters out the warnings
 
 
 def cli_test(data):
+
+
     entree=input("""Choisissez le mode de géolocalisation :
         
         (a) manuel
         (b) aléatoire
-        (c) data
     """)
+
+
+    latitude_user = 0
+    longitude_user = 0
+    perimetre_user = 0
+
 
     if entree=="a":
         
         # My manual geolocalisation point and perimeter
         
-        latitude = float(input("Choisissez une latitude : "))
-        longitude = float(input("Choisissez une longitude : "))
-        perimetre = float(input("Choisissez le périmètre de la zone : "))
+        latitude_user = float(input("Choisissez une latitude : "))
+        longitude_user = float(input("Choisissez une longitude : "))
+        perimetre_user = float(input("Choisissez le périmètre de la zone : "))
 
     elif entree=="b":
 
-        latitude = random.uniform(47.9,49.5)
-        longitude = random.uniform(5.0,5.8)
-        perimetre = random.uniform(0.2,0.3)
+        # Random geolocalisation point and perimeter
+
+        latitude_user = random.uniform(47.9,49.5)
+        longitude_user = random.uniform(5.0,5.8)
+        perimetre_user = random.uniform(0.2,0.3)
         
-        print(f"Ma géolocalisation générée aléatoirement dans le département de la Meuse : \n{latitude}, {longitude}")
-        print(f"\nMon périmètre de déplacement généré aléatoirement : \n{perimetre}")
+        print(f"Ma géolocalisation générée aléatoirement dans le département de la Meuse : \n{latitude_user}, {longitude_user}")
+        print(f"\nMon périmètre de déplacement généré aléatoirement : \n{perimetre_user}")
 
-    elif entree=="c":
-
-        for i in data:
-            print("\n\n\n Nom du restaurant :",i.name)
-            print("\n Latitude : ",i.lat)
-            print("\n Longitude :",i.lon)
 
     else:
         print("Mauvaise entrée.")
         exit()
 
-    #maLatLon = (latitude, longitude)
+
+    return latitude_user, longitude_user, perimetre_user
