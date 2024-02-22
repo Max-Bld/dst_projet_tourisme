@@ -12,12 +12,19 @@ from pyroutelib3 import Router
 def visualize_data(data, latitude_user, longitude_user, perimetre_user):
 
     coords_user = (latitude_user, longitude_user)
-
     router = Router("car")
+    depart = router.findNode(latitude_user, longitude_user)
 
     m = folium.Map([latitude_user, longitude_user])
 
-    depart = router.findNode(latitude_user, longitude_user)
+    print(len(data))
+
+    mean_lat = []
+    mean_lon = []
+    for i in data:
+        mean_lat.append(float(i.lat))
+        mean_lon.append(float(i.lon))
+
 
 
     # Afficher les résultats
@@ -25,36 +32,29 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
         name = row.name
         lat = float(row.lat)
         lon = float(row.lon)
-
-
         coords_resto = (lat, lon)
         distance = int(geopy.distance.geodesic(coords_user, coords_resto).km)
-
-        popup_description = name + "\n\n" + "distance en km :" + str(distance)
-
-        folium.Marker(
-            location=[lat, lon],
-            tooltip=popup_description,
-            popup=popup_description,
-            icon=folium.Icon(color="blue"),
-        ).add_to(m)
-
-        arrivee = router.findNode(lat, lon)
-        status, itineraire = router.doRoute(depart, arrivee)
-
-        if status == 'success':
-            routeLatLons = list(map(router.nodeLatLon, itineraire)) # liste des points du parcours
         
-        carte= folium.Map(location=[(latitude_user+lat)/2,(longitude_user+lon)/2],zoom_start=15)
-
-        itineraire_coordonnees = list(map(router.nodeLatLon, itineraire)) # liste des points du parcours
-
-        folium.PolyLine(
-            itineraire_coordonnees,
-            color="blue",
-            weight=2.5,
-            opacity=1
+        if float(perimetre_user/1000) > float(distance):
+            popup_description = name + "\n\n" + "distance en km :" + str(distance)
+            folium.Marker(
+                location=[lat, lon],
+                tooltip=popup_description,
+                popup=popup_description,
+                icon=folium.Icon(color="blue"),
             ).add_to(m)
+
+
+    # tracé d'un itinéraire   
+    arrivee = router.findNode(float(mean_lat[0]), float(mean_lon[0]))
+    status, itineraire = router.doRoute(depart, arrivee)
+    itineraire_coordonnees = list(map(router.nodeLatLon, itineraire)) # liste des points du parcours
+    folium.PolyLine(
+        itineraire_coordonnees,
+        color="blue",
+        weight=2.5,
+        opacity=1
+        ).add_to(m)
 
 
     #le radius est le rayon en metres
