@@ -5,15 +5,14 @@ import random
 import geopy.distance
 
 
-latitude_user = random.uniform(47.9,49.5)
-longitude_user = random.uniform(5.0,5.8)
-
-coords_user = (latitude_user, longitude_user)
-
-def visualize_data(data):
 
 
-    m = folium.Map([49, 5])
+
+def visualize_data(data, latitude_user, longitude_user):
+
+    coords_user = (latitude_user, longitude_user)
+
+    m = folium.Map([latitude_user, longitude_user])
 
     # Afficher les résultats
     for row in data:

@@ -3,7 +3,7 @@ from cli import cli_test
 from visualisation_data import visualize_data
 
 
-cli_test(data)
-m = visualize_data(data)
-m.save("test_print2.html")
+latitude_user, longitude_user, perimetre_user = cli_test(data)
+m = visualize_data(data, latitude_user, longitude_user)
+m.save("test_print4.html")
 
