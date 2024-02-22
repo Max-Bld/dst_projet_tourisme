@@ -24,10 +24,12 @@ def visualize_data(data):
         coords_resto = (row.lat, row.lon)
         distance = geopy.distance.geodesic(coords_user, coords_resto).km
 
+        popup_description = name + "\n\n" + "distance en km :" + str(distance)
+
         folium.Marker(
             location=[lat, lon],
-            tooltip=name,
-            popup=distance,
+            tooltip=popup_description,
+            popup=popup_description,
             icon=folium.Icon(color="blue"),
         ).add_to(m)
 
