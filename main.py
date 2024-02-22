@@ -29,4 +29,4 @@ computed_data = distances_euclidiennes(latitude_user, longitude_user, queried_da
 
 retourner_distances(queried_data, computed_data)
 
-afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user)
+afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user, query_element)

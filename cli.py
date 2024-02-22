@@ -15,6 +15,7 @@ la requête SPARQL.
 from sys import exit
 from time import sleep
 from display import visualize_data
+import webbrowser
 
 def se_geolocaliser(latitude_user, longitude_user):
     
@@ -102,6 +103,8 @@ def retourner_distances(queried_data, euclidean_distances):
         i=i+1
         sleep(0.01)
         
-def afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user):
-    input("\nAppuyez sur une touche pour afficher la carte :")
-    visualize_data(queried_data, latitude_user, longitude_user, perimetre_user)
+def afficher_carte(queried_data, latitude_user, longitude_user, perimetre_user, query_element):
+    input("\nAppuyez sur une touche pour générer la carte :")
+    url_carte = visualize_data(queried_data, latitude_user, longitude_user, perimetre_user, query_element)
+    input("\nAppuyez sur une touche pour afficher la carte dans votre navigateur :")
+    webbrowser.open(url_carte, new=0, autoraise=True)
