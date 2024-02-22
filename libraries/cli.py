@@ -26,6 +26,23 @@ warnings.filterwarnings("ignore") # filters out the warnings
 
 def cli_test(data):
 
+    """
+    Description :
+        génére selon l'entrée des coordonnées de l'utilisateur
+
+    Entrée :
+        - data 
+            données RDF serialisé
+            Pour l'instant un fichier ttl est importé. 
+            A voir comment le script .py se comporte avec une source de données beaucoup plus grande
+        
+    Sortie :
+        - latitude_user
+        - longitude_user
+        - perimetre_user
+    """
+
+
 
     entree=input("""Choisissez le mode de géolocalisation :
         

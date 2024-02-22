@@ -11,14 +11,34 @@ from pyroutelib3 import Router
 
 def visualize_data(data, latitude_user, longitude_user, perimetre_user):
 
+    """
+    Description:
+        Affiche sur une carte folium des lieux et la position d'un utilisateur
+
+    Entrée :
+        - data 
+            données RDF serialisé
+            Pour l'instant un fichier ttl est importé. 
+            A voir comment le script .py se comporte avec une source de données beaucoup plus grande
+        - latitude_user
+        - longitude_user
+        - perimetre_user
+
+    Sortie :
+        - m 
+            Carte folium avec les résultats
+    """
+
+    #Coordonnées de l'utilisateur 
     coords_user = (latitude_user, longitude_user)
+
+    #Initialisation router
     router = Router("car")
     depart = router.findNode(latitude_user, longitude_user)
 
     m = folium.Map([latitude_user, longitude_user])
 
-    print(len(data))
-
+    #Création de liste pour prendre uniquement une destination pour le tracé d'un itinéraire
     mean_lat = []
     mean_lon = []
     for i in data:
@@ -26,8 +46,7 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
         mean_lon.append(float(i.lon))
 
 
-
-    # Afficher les résultats
+    # Afficher tous les points dans le périmètre utilisateur
     for row in data:
         name = row.name
         lat = float(row.lat)
@@ -57,7 +76,8 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
         ).add_to(m)
 
 
-    #le radius est le rayon en metres
+    #tracé du périmètre
+    # le radius est le rayon en metres
     folium.Circle(
         location=[latitude_user, longitude_user],
         radius=perimetre_user,
@@ -71,6 +91,8 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
         tooltip="I am in meters",
     ).add_to(m)
 
+
+    # tracé du marqueur utilisateur
     folium.Marker(
         location=[latitude_user, longitude_user],
         tooltip="Votre position",
@@ -79,3 +101,4 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user):
     ).add_to(m)
 
     return m
+
