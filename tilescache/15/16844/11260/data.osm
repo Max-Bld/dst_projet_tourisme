@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (2834428 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.9441512" minlon="5.0537109" maxlat="48.9513665" maxlon="5.0646973"/>
+ <node id="2813547490" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9421054" lon="5.0739353"/>
+ <node id="2813547491" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9437541" lon="5.0706304"/>
+ <node id="2813547492" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9439883" lon="5.0699447"/>
+ <node id="2813547493" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9440784" lon="5.0686939"/>
+ <node id="2813547494" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9442189" lon="5.0682495"/>
+ <node id="2813547498" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9451990" lon="5.0646781"/>
+ <node id="2813552403" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9464853" lon="5.0599107"/>
+ <node id="2813552405" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9478220" lon="5.0550994"/>
+ <node id="2813552406" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9489245" lon="5.0510453"/>
+ <node id="2813552415" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9499765" lon="5.0472818"/>
+ <node id="2813552416" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9501351" lon="5.0466125"/>
+ <node id="2813552418" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9502071" lon="5.0461407"/>
+ <node id="2813552419" visible="true" version="1" changeset="21911537" timestamp="2014-04-24T16:13:50Z" user="Aroche" uid="50179" lat="48.9503064" lon="5.0425120"/>
+ <node id="4150802195" visible="true" version="1" changeset="38914073" timestamp="2016-04-27T09:01:00Z" user="S Latourte" uid="1725326" lat="48.9462205" lon="5.0608922"/>
+ <node id="4150802196" visible="true" version="1" changeset="38914073" timestamp="2016-04-27T09:01:00Z" user="S Latourte" uid="1725326" lat="48.9321138" lon="5.0478511"/>
+ <node id="4150802197" visible="true" version="1" changeset="38914073" timestamp="2016-04-27T09:01:00Z" user="S Latourte" uid="1725326" lat="48.9319516" lon="5.0476687"/>
+ <node id="6298785127" visible="true" version="1" changeset="67512445" timestamp="2019-02-24T10:05:56Z" user="Denis_Helfer" uid="22165" lat="48.9484565" lon="5.0576913">
+  <tag k="name" v="Bois d'Arcéfays"/>
+  <tag k="place" v="locality"/>
+  <tag k="source" v="Direction Générale des Impôts - cadastre"/>
+  <tag k="source:date" v="2019"/>
+ </node>
+ <way id="276774523" visible="true" version="2" changeset="38914073" timestamp="2016-04-27T09:01:01Z" user="S Latourte" uid="1725326">
+  <nd ref="2813552419"/>
+  <nd ref="2813552418"/>
+  <nd ref="2813552416"/>
+  <nd ref="2813552415"/>
+  <nd ref="2813552406"/>
+  <nd ref="2813552405"/>
+  <nd ref="2813552403"/>
+  <nd ref="4150802195"/>
+  <nd ref="2813547498"/>
+  <nd ref="2813547494"/>
+  <nd ref="2813547493"/>
+  <nd ref="2813547492"/>
+  <nd ref="2813547491"/>
+  <nd ref="2813547490"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Tranchée d'Arcy Fays"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="413844212" visible="true" version="1" changeset="38914073" timestamp="2016-04-27T09:01:00Z" user="S Latourte" uid="1725326">
+  <nd ref="4150802195"/>
+  <nd ref="4150802196"/>
+  <nd ref="4150802197"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Tranchée du Bois Lecomte"/>
+ </way>
+</osm>

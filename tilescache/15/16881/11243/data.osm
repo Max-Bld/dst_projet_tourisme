@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (2773886 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="49.0666684" minlon="5.4602051" maxlat="49.0738659" maxlon="5.4711914"/>
+ <node id="6795420157" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0709350" lon="5.4596847"/>
+ <node id="6795420158" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0707382" lon="5.4598242"/>
+ <node id="6795420159" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0702813" lon="5.4599744"/>
+ <node id="6795420160" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0698104" lon="5.4598403"/>
+ <node id="6795420161" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0689775" lon="5.4597545"/>
+ <node id="6795420162" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0685100" lon="5.4598618"/>
+ <node id="6795420163" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0679020" lon="5.4603714"/>
+ <node id="6795420164" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0669707" lon="5.4615569"/>
+ <node id="6795420165" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0667035" lon="5.4624367"/>
+ <node id="6795420166" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0672132" lon="5.4627854"/>
+ <node id="6795420167" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0673502" lon="5.4630965"/>
+ <node id="6795420168" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0674803" lon="5.4639065"/>
+ <node id="6795420169" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0678458" lon="5.4652905"/>
+ <node id="6795420170" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0681199" lon="5.4657787"/>
+ <node id="6795420171" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0685171" lon="5.4667228"/>
+ <node id="6795420172" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0689494" lon="5.4680318"/>
+ <node id="6795420173" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0692481" lon="5.4693836"/>
+ <node id="6795420174" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121" lat="49.0696474" lon="5.4714574"/>
+ <way id="724577086" visible="true" version="1" changeset="74475262" timestamp="2019-09-14T14:31:07Z" user="Eric-Chambly" uid="1002121">
+  <nd ref="6795420174"/>
+  <nd ref="6795420173"/>
+  <nd ref="6795420172"/>
+  <nd ref="6795420171"/>
+  <nd ref="6795420170"/>
+  <nd ref="6795420169"/>
+  <nd ref="6795420168"/>
+  <nd ref="6795420167"/>
+  <nd ref="6795420166"/>
+  <nd ref="6795420165"/>
+  <nd ref="6795420164"/>
+  <nd ref="6795420163"/>
+  <nd ref="6795420162"/>
+  <nd ref="6795420161"/>
+  <nd ref="6795420160"/>
+  <nd ref="6795420159"/>
+  <nd ref="6795420158"/>
+  <nd ref="6795420157"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>
