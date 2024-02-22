@@ -9,11 +9,13 @@ Orchestre les différents modules.
 
 """
 
-from generate import latitude_user, longitude_user, perimetre_user
+from generate import generate_user_geo
 from cli import se_geolocaliser, choisir_perimetre, choisir_preferences, retourner_lieux, retourner_distances, afficher_carte
 from extract import data
 from query import sparql_query
 from compute import distances_euclidiennes
+
+latitude_user, longitude_user, perimetre_user = generate_user_geo()
 
 se_geolocaliser(latitude_user, longitude_user)
 choisir_perimetre(perimetre_user)

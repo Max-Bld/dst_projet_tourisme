@@ -96,7 +96,7 @@ def retourner_lieux(queried_data):
         
 def retourner_distances(queried_data, euclidean_distances):
     i=0
-    #input("\nAppuyez sur une touche pour afficher le noms des lieux et leur distance :")
+    input("\nAppuyez sur une touche pour afficher le noms des lieux et leur distance :")
     for row in queried_data:
         print(f"{row.name} - ", euclidean_distances[i])
         i=i+1
