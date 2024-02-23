@@ -96,12 +96,14 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
 
     etablissements = []
     for i in data_distanced:
-        etablissements.append(i[0])
-
+        etablissements.append(str(i[0]))
     etablissements_distance = pd.DataFrame(0, index=(etablissements), columns=(etablissements))
-    print(etablissements_distance)
+    for colonne, val_col in etablissements_distance.items():
+        for ligne, val_ligne in etablissements_distance.iterrows():
+            print(data_distanced[:][0].index(str(colonne)))
+            #print(data_distanced[data_distanced.index(str(colonne))])
 
-    for row in data_distanced:
+    """for row in data_distanced:
         name = row[0]
         lat = row[1]
         lon = row[2]
@@ -183,4 +185,4 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
     
     m.save(url_carte)
     
-    return url_carte
+    return url_carte"""
