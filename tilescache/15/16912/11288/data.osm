@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1376209 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.7417009" minlon="5.8007812" maxlat="48.7489453" maxlon="5.8117676"/>
+ <node id="6753632955" visible="true" version="1" changeset="73846980" timestamp="2019-08-28T15:01:38Z" user="Eric-Chambly" uid="1002121" lat="48.7588497" lon="5.8292319"/>
+ <node id="6753632960" visible="true" version="1" changeset="73846980" timestamp="2019-08-28T15:01:38Z" user="Eric-Chambly" uid="1002121" lat="48.7606907" lon="5.8321794"/>
+ <node id="6753632961" visible="true" version="1" changeset="73846980" timestamp="2019-08-28T15:01:38Z" user="Eric-Chambly" uid="1002121" lat="48.7622854" lon="5.8347326"/>
+ <node id="6753632962" visible="true" version="1" changeset="73846980" timestamp="2019-08-28T15:01:38Z" user="Eric-Chambly" uid="1002121" lat="48.7495351" lon="5.8143208"/>
+ <node id="6753632976" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7392728" lon="5.8101717"/>
+ <node id="6753632977" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7403716" lon="5.8105954"/>
+ <node id="6753632978" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7405113" lon="5.8105512"/>
+ <node id="6753632979" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7412958" lon="5.8099034"/>
+ <node id="6753632980" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7427038" lon="5.8095681"/>
+ <node id="6753632981" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7446839" lon="5.8067585"/>
+ <node id="6753632982" visible="true" version="1" changeset="73846980" timestamp="2019-08-28T15:01:38Z" user="Eric-Chambly" uid="1002121" lat="48.7409819" lon="5.8010962"/>
+ <node id="7906670662" visible="true" version="1" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7427798" lon="5.8095038"/>
+ <node id="7906670663" visible="true" version="1" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7414196" lon="5.8098525"/>
+ <node id="7906670673" visible="true" version="1" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7397897" lon="5.8103581"/>
+ <node id="7906670674" visible="true" version="1" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375" lat="48.7404353" lon="5.8105861"/>
+ <node id="11343757687" visible="true" version="1" changeset="143940198" timestamp="2023-11-12T16:33:56Z" user="Corentin54380" uid="17845948" lat="48.7561165" lon="5.8248562"/>
+ <way id="719399832" visible="true" version="2" changeset="143940198" timestamp="2023-11-12T16:33:56Z" user="Corentin54380" uid="17845948">
+  <nd ref="6753632981"/>
+  <nd ref="6753632962"/>
+  <nd ref="11343757687"/>
+  <nd ref="6753632955"/>
+  <nd ref="6753632960"/>
+  <nd ref="6753632961"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="719399835" visible="true" version="2" changeset="90885784" timestamp="2020-09-14T20:57:32Z" user="Rom1" uid="337375">
+  <nd ref="6753632982"/>
+  <nd ref="6753632981"/>
+  <nd ref="7906670662"/>
+  <nd ref="6753632980"/>
+  <nd ref="7906670663"/>
+  <nd ref="6753632979"/>
+  <nd ref="6753632978"/>
+  <nd ref="7906670674"/>
+  <nd ref="6753632977"/>
+  <nd ref="7906670673"/>
+  <nd ref="6753632976"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>

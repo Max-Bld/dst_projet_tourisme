@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (531770 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="49.4681241" minlon="5.3613281" maxlat="49.4752632" maxlon="5.3723145"/>
+ <node id="823733607" visible="true" version="2" changeset="16339193" timestamp="2013-05-29T15:06:42Z" user="StephaneP" uid="439947" lat="49.4757961" lon="5.3723242"/>
+ <node id="6765844277" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4726781" lon="5.3694333">
+  <tag k="name" v="L'Embuscade"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <node id="6765844278" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4745443" lon="5.3705982"/>
+ <node id="6765844279" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4725476" lon="5.3678065"/>
+ <node id="6765844280" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4716079" lon="5.3660191"/>
+ <node id="6765844281" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4691021" lon="5.3615806"/>
+ <node id="6765844282" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4690499" lon="5.3611588"/>
+ <node id="6765844283" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4689716" lon="5.3608576"/>
+ <node id="6765844284" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4688411" lon="5.3608174"/>
+ <node id="6765863885" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4686975" lon="5.3608777"/>
+ <node id="6765863886" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4686322" lon="5.3610383"/>
+ <node id="6765863887" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4686584" lon="5.3613195"/>
+ <node id="6765863888" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268" lat="49.4687628" lon="5.3613998"/>
+ <way id="721112509" visible="true" version="1" changeset="73992833" timestamp="2019-09-02T09:28:56Z" user="Jeece" uid="1455268">
+  <nd ref="823733607"/>
+  <nd ref="6765844278"/>
+  <nd ref="6765844279"/>
+  <nd ref="6765844280"/>
+  <nd ref="6765844281"/>
+  <nd ref="6765844282"/>
+  <nd ref="6765844283"/>
+  <nd ref="6765844284"/>
+  <nd ref="6765863885"/>
+  <nd ref="6765863886"/>
+  <nd ref="6765863887"/>
+  <nd ref="6765863888"/>
+  <nd ref="6765844281"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>

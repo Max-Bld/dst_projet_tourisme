@@ -14,7 +14,7 @@ la requête SPARQL.
 
 from sys import exit
 from time import sleep
-from display import visualize_data
+from display_test import visualize_data
 import webbrowser
 
 def se_geolocaliser(latitude_user, longitude_user):

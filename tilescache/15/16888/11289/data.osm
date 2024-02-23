@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1356116 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.7344554" minlon="5.5371094" maxlat="48.7417009" maxlon="5.5480957"/>
+ <node id="813916678" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:52:16Z" user="FrViPofm" uid="107257" lat="48.7335782" lon="5.5311134"/>
+ <node id="813919311" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:53:28Z" user="FrViPofm" uid="107257" lat="48.7307701" lon="5.5414344"/>
+ <node id="813921930" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:54:51Z" user="FrViPofm" uid="107257" lat="48.7365575" lon="5.5443132"/>
+ <node id="813924637" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:56:03Z" user="FrViPofm" uid="107257" lat="48.7372458" lon="5.5427288"/>
+ <node id="813927814" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:56:58Z" user="FrViPofm" uid="107257" lat="48.7281202" lon="5.5339503"/>
+ <node id="813929584" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:57:23Z" user="FrViPofm" uid="107257" lat="48.7370697" lon="5.5485795"/>
+ <node id="813929638" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:57:23Z" user="FrViPofm" uid="107257" lat="48.7342541" lon="5.5487446"/>
+ <node id="813930988" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:57:46Z" user="FrViPofm" uid="107257" lat="48.7369118" lon="5.5471826"/>
+ <node id="813932322" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:58:17Z" user="FrViPofm" uid="107257" lat="48.7359050" lon="5.5385781"/>
+ <node id="813936156" visible="true" version="2" changeset="29626137" timestamp="2015-03-20T22:10:31Z" user="rando67" uid="466374" lat="48.7362449" lon="5.5494565"/>
+ <node id="813937277" visible="true" version="1" changeset="5202202" timestamp="2010-07-12T19:59:56Z" user="FrViPofm" uid="107257" lat="48.7319620" lon="5.5411008"/>
+ <node id="1119344867" visible="true" version="2" changeset="80475623" timestamp="2020-02-03T11:48:14Z" user="Clemclar" uid="702608" lat="48.7321688" lon="5.5463460"/>
+ <node id="1874525911" visible="true" version="4" changeset="17829384" timestamp="2013-09-14T08:52:21Z" user="contributeur ano" uid="1229312" lat="48.7407757" lon="5.5419943">
+  <tag k="leisure" v="playground"/>
+  <tag k="name" v="Fontaine Royale"/>
+ </node>
+ <node id="1874602657" visible="true" version="2" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409086" lon="5.5421400">
+  <tag k="leisure" v="picnic_table"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="6"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="1874607010" visible="true" version="1" changeset="12797634" timestamp="2012-08-20T15:57:12Z" user="STCOMM" uid="819238" lat="48.7416970" lon="5.5429225"/>
+ <node id="1874607014" visible="true" version="3" changeset="80434954" timestamp="2020-02-02T13:07:05Z" user="Clemclar" uid="702608" lat="48.7494914" lon="5.5652004"/>
+ <node id="1874607038" visible="true" version="1" changeset="12797634" timestamp="2012-08-20T15:57:12Z" user="STCOMM" uid="819238" lat="48.7409187" lon="5.5417316"/>
+ <node id="1874607040" visible="true" version="1" changeset="12797634" timestamp="2012-08-20T15:57:12Z" user="STCOMM" uid="819238" lat="48.7417607" lon="5.5429976"/>
+ <node id="1874607043" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7415767" lon="5.5425564"/>
+ <node id="1874607067" visible="true" version="2" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7445738" lon="5.5461090"/>
+ <node id="1874608836" visible="true" version="2" changeset="17829346" timestamp="2013-09-14T08:48:36Z" user="contributeur ano" uid="1229312" lat="48.7357078" lon="5.5387772"/>
+ <node id="2072645569" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:13:26Z" user="Eric V" uid="163480" lat="48.7345536" lon="5.5278308"/>
+ <node id="2072645572" visible="true" version="2" changeset="80475623" timestamp="2020-02-03T11:48:14Z" user="Clemclar" uid="702608" lat="48.7307014" lon="5.5413139"/>
+ <node id="2072645573" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:13:26Z" user="Eric V" uid="163480" lat="48.7384171" lon="5.5374384"/>
+ <node id="2072645599" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:13:27Z" user="Eric V" uid="163480" lat="48.7381305" lon="5.5367035"/>
+ <node id="2072645601" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7383392" lon="5.5371595">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="2072645635" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:13:27Z" user="Eric V" uid="163480" lat="48.7359653" lon="5.5314142"/>
+ <node id="2072645636" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:13:27Z" user="Eric V" uid="163480" lat="48.7339061" lon="5.5396674"/>
+ <node id="2072645888" visible="true" version="2" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407829" lon="5.5416247"/>
+ <node id="2072645889" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:15:11Z" user="Eric V" uid="163480" lat="48.7385055" lon="5.5375940"/>
+ <node id="2072645890" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:15:11Z" user="Eric V" uid="163480" lat="48.7394819" lon="5.5403835"/>
+ <node id="2072645891" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:15:11Z" user="Eric V" uid="163480" lat="48.7393546" lon="5.5401475"/>
+ <node id="2072645892" visible="true" version="1" changeset="14317177" timestamp="2012-12-18T11:15:11Z" user="Eric V" uid="163480" lat="48.7384848" lon="5.5374031"/>
+ <node id="2457740581" visible="true" version="1" changeset="17829223" timestamp="2013-09-14T08:37:17Z" user="contributeur ano" uid="1229312" lat="48.7440087" lon="5.5546061"/>
+ <node id="2457740611" visible="true" version="2" changeset="18172576" timestamp="2013-10-04T06:05:24Z" user="Kalaallit Nunaat" uid="400383" lat="48.7435562" lon="5.5537635"/>
+ <node id="2457753339" visible="true" version="3" changeset="73814090" timestamp="2019-08-27T20:45:38Z" user="Eric-Chambly" uid="1002121" lat="48.7451865" lon="5.5713892"/>
+ <node id="2457753340" visible="true" version="1" changeset="17829426" timestamp="2013-09-14T08:57:13Z" user="contributeur ano" uid="1229312" lat="48.7447277" lon="5.5673467"/>
+ <node id="2457753341" visible="true" version="1" changeset="17829426" timestamp="2013-09-14T08:57:13Z" user="contributeur ano" uid="1229312" lat="48.7419169" lon="5.5576734"/>
+ <node id="2457753342" visible="true" version="1" changeset="17829426" timestamp="2013-09-14T08:57:13Z" user="contributeur ano" uid="1229312" lat="48.7372398" lon="5.5416984"/>
+ <node id="2528001776" visible="true" version="1" changeset="18836739" timestamp="2013-11-11T14:39:33Z" user="contributeur ano" uid="1229312" lat="48.7337386" lon="5.5312248"/>
+ <node id="3309342486" visible="true" version="1" changeset="28392669" timestamp="2015-01-25T11:17:32Z" user="azsdrt" uid="2599049" lat="48.7402121" lon="5.5365019"/>
+ <node id="3309470542" visible="true" version="1" changeset="28394406" timestamp="2015-01-25T12:40:44Z" user="azsdrt" uid="2599049" lat="48.7457179" lon="5.5709150"/>
+ <node id="3981892664" visible="true" version="1" changeset="36936045" timestamp="2016-02-01T13:07:11Z" user="S Latourte" uid="1725326" lat="48.7396521" lon="5.5499376"/>
+ <node id="3981892666" visible="true" version="1" changeset="36936045" timestamp="2016-02-01T13:07:11Z" user="S Latourte" uid="1725326" lat="48.7375115" lon="5.5426265"/>
+ <node id="3981892667" visible="true" version="1" changeset="36936045" timestamp="2016-02-01T13:07:11Z" user="S Latourte" uid="1725326" lat="48.7321153" lon="5.5405859"/>
+ <node id="3997553078" visible="true" version="1" changeset="37103027" timestamp="2016-02-09T14:43:02Z" user="S Latourte" uid="1725326" lat="48.7435842" lon="5.5634113"/>
+ <node id="3997553081" visible="true" version="1" changeset="37103027" timestamp="2016-02-09T14:43:02Z" user="S Latourte" uid="1725326" lat="48.7415107" lon="5.5562859"/>
+ <node id="5658787451" visible="true" version="1" changeset="59486796" timestamp="2018-06-02T14:23:11Z" user="TubezlobWD" uid="5504272" lat="48.7421965" lon="5.5429775"/>
+ <node id="5658787452" visible="true" version="1" changeset="59486796" timestamp="2018-06-02T14:23:11Z" user="TubezlobWD" uid="5504272" lat="48.7419521" lon="5.5428386"/>
+ <node id="5658787453" visible="true" version="1" changeset="59486796" timestamp="2018-06-02T14:23:11Z" user="TubezlobWD" uid="5504272" lat="48.7413577" lon="5.5425703"/>
+ <node id="8337532732" visible="true" version="1" changeset="97758005" timestamp="2021-01-19T10:02:43Z" user="Roman Oleynik" uid="12116568" lat="48.7355376" lon="5.5303285"/>
+ <node id="9045621840" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7405936" lon="5.5421761"/>
+ <node id="9045621841" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7405870" lon="5.5422532"/>
+ <node id="9045621842" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406467" lon="5.5423712"/>
+ <node id="9045621843" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408395" lon="5.5422725"/>
+ <node id="9045621852" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7417548" lon="5.5492651"/>
+ <node id="9045621853" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7418123" lon="5.5494563"/>
+ <node id="9045621855" visible="true" version="2" changeset="138515681" timestamp="2023-07-14T16:42:12Z" user="pyrog" uid="270456" lat="48.7412432" lon="5.5463697">
+  <tag k="hiking" v="yes"/>
+  <tag k="information" v="route_marker"/>
+  <tag k="name" v="Sentier du Cardinal de Retz"/>
+  <tag k="support" v="tree"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621856" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7429761" lon="5.5526553"/>
+ <node id="9045621857" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7430381" lon="5.5526099"/>
+ <node id="9045621858" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7430770" lon="5.5524570"/>
+ <node id="9045621859" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7430646" lon="5.5520681"/>
+ <node id="9045621860" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7429956" lon="5.5519178"/>
+ <node id="9045621861" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7428170" lon="5.5507913"/>
+ <node id="9045621862" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7427904" lon="5.5505392"/>
+ <node id="9045621863" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7426560" lon="5.5503193"/>
+ <node id="9045621864" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7425534" lon="5.5502200"/>
+ <node id="9045621865" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7424420" lon="5.5502281"/>
+ <node id="9045621866" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7422987" lon="5.5501690"/>
+ <node id="9045621867" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7420033" lon="5.5497801"/>
+ <node id="9045621868" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7416354" lon="5.5491284"/>
+ <node id="9045621869" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7413489" lon="5.5483693"/>
+ <node id="9045621870" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7412145" lon="5.5474654"/>
+ <node id="9045621871" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7411702" lon="5.5472159"/>
+ <node id="9045621872" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7412888" lon="5.5460224"/>
+ <node id="9045621873" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7412976" lon="5.5453250"/>
+ <node id="9045621874" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7412145" lon="5.5440751"/>
+ <node id="9045621875" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7401974" lon="5.5435520"/>
+ <node id="9045621876" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409082" lon="5.5424163">
+  <tag k="direction_northeast" v="Arboretum; Jardin Botanique"/>
+  <tag k="information" v="guidepost"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621877" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409929" lon="5.5426220"/>
+ <node id="9045621878" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7411349" lon="5.5433267"/>
+ <node id="9045621879" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7410694" lon="5.5427655"/>
+ <node id="9045621880" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409323" lon="5.5424530"/>
+ <node id="9045621881" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409013" lon="5.5423905"/>
+ <node id="9045621882" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407475" lon="5.5420969"/>
+ <node id="9045621883" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408886" lon="5.5423873">
+  <tag k="board_type" v="history"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="La Fontaine-Royale"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621884" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408846" lon="5.5423801">
+  <tag k="description" v="D'après la carte topographique de 1956 par J.F. Geoffroy"/>
+  <tag k="information" v="map"/>
+  <tag k="map_size" v="site"/>
+  <tag k="map_type" v="scheme"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621885" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408806" lon="5.5423749">
+  <tag k="description" v="Carte Générale - Situation des équipements de loisirs"/>
+  <tag k="information" v="map"/>
+  <tag k="map_size" v="site"/>
+  <tag k="map_type" v="scheme"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621886" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407311" lon="5.5423045">
+  <tag k="leisure" v="picnic_table"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="6"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621887" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407229" lon="5.5423786">
+  <tag k="amenity" v="waste_basket"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621888" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407535" lon="5.5422783">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621889" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407223" lon="5.5424622"/>
+ <node id="9045621890" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406964" lon="5.5423955"/>
+ <node id="9045621891" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406843" lon="5.5424818"/>
+ <node id="9045621892" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406794" lon="5.5423990"/>
+ <node id="9045621893" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406641" lon="5.5424101">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621894" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406314" lon="5.5423970">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621895" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406292" lon="5.5423605">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621896" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406617" lon="5.5423618">
+  <tag k="playground" v="structure"/>
+ </node>
+ <node id="9045621897" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406385" lon="5.5422934">
+  <tag k="playground" v="springy"/>
+ </node>
+ <node id="9045621898" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406069" lon="5.5422176">
+  <tag k="capacity" v="2"/>
+  <tag k="playground" v="swing"/>
+ </node>
+ <node id="9045621899" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407108" lon="5.5420802">
+  <tag k="description" v="Portique 5 agrés"/>
+  <tag k="playground" v="horizontal_bar;wall_bars;rope"/>
+ </node>
+ <node id="9045621900" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409072" lon="5.5422713"/>
+ <node id="9045621901" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407186" lon="5.5425524"/>
+ <node id="9045621902" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7404542" lon="5.5421445"/>
+ <node id="9045621903" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406429" lon="5.5418634"/>
+ <node id="9045621904" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409135" lon="5.5415726">
+  <tag k="information" v="map"/>
+  <tag k="map_size" v="site"/>
+  <tag k="map_type" v="scheme"/>
+  <tag k="name" v="Forêt Domaniale de Commercy"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621905" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407254" lon="5.5419186">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621906" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406699" lon="5.5419089">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="3"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621907" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7405914" lon="5.5421362"/>
+ <node id="9045621908" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406933" lon="5.5419484"/>
+ <node id="9045621909" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406380" lon="5.5419397">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9045621910" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7406153" lon="5.5419575">
+  <tag k="leisure" v="picnic_table"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="6"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621911" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407667" lon="5.5419427">
+  <tag k="leisure" v="picnic_table"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="6"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045621912" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408001" lon="5.5418656">
+  <tag k="board_type" v="nature"/>
+  <tag k="description" v="Alerte Chenilles processionnaires du chêne"/>
+  <tag k="information" v="board"/>
+  <tag k="source" v="survey"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621913" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408021" lon="5.5418622">
+  <tag k="board_type" v="nature"/>
+  <tag k="description" v="Prévenir les piqûres de tiques et la borréliose de Lyme"/>
+  <tag k="information" v="board"/>
+  <tag k="source" v="survey"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9045621914" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407619" lon="5.5419765"/>
+ <node id="9045621915" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7407818" lon="5.5419239"/>
+ <node id="9045621916" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408052" lon="5.5418750"/>
+ <node id="9045624117" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408633" lon="5.5416880"/>
+ <node id="9045624118" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7408258" lon="5.5418736">
+  <tag k="amenity" v="waste_basket"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045624119" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7410309" lon="5.5420916"/>
+ <node id="9045624120" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7411104" lon="5.5419894"/>
+ <node id="9045624121" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7409429" lon="5.5422089">
+  <tag k="amenity" v="waste_basket"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045624122" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7410004" lon="5.5422344">
+  <tag k="leisure" v="picnic_table"/>
+  <tag k="material" v="wood"/>
+  <tag k="seats" v="6"/>
+  <tag k="source" v="survey"/>
+ </node>
+ <node id="9045624123" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7414484" lon="5.5427206"/>
+ <node id="9045624124" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7415671" lon="5.5430163"/>
+ <node id="9045624125" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7411327" lon="5.5432101"/>
+ <node id="9045624126" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7413224" lon="5.5431443"/>
+ <node id="9045624127" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7416147" lon="5.5429915"/>
+ <node id="9045624132" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7420994" lon="5.5433230"/>
+ <node id="9045624136" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7425150" lon="5.5428869"/>
+ <node id="9045624137" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7427356" lon="5.5430692"/>
+ <node id="9045624138" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7428325" lon="5.5432476"/>
+ <node id="9045624144" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7425871" lon="5.5439057"/>
+ <node id="9045624146" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7443508" lon="5.5458623"/>
+ <node id="9045624151" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036" lat="48.7447155" lon="5.5462692"/>
+ <node id="9104972877" visible="true" version="1" changeset="111399634" timestamp="2021-09-19T09:02:33Z" user="cyel" uid="10434036" lat="48.7446688" lon="5.5558817">
+  <tag k="barrier" v="gate"/>
+  <tag k="note" v="2 barrières de chaque côté du chemin qui coulissent pour fermer le passage"/>
+  <tag k="vehicle" v="permissive"/>
+ </node>
+ <node id="9910266534" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7416452" lon="5.5428037"/>
+ <node id="9910266535" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7418097" lon="5.5427340"/>
+ <node id="9910266536" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7419759" lon="5.5428077"/>
+ <node id="9910266537" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7422227" lon="5.5426723"/>
+ <node id="9910266538" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7408110" lon="5.5419227"/>
+ <node id="9910266569" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7486770" lon="5.5636267"/>
+ <node id="9910266581" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7406481" lon="5.5421114"/>
+ <node id="9910266582" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7405114" lon="5.5419548"/>
+ <node id="9910266583" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7401461" lon="5.5415109"/>
+ <node id="9910266584" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7396650" lon="5.5409101"/>
+ <node id="9910266585" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7394279" lon="5.5406284"/>
+ <node id="9910266586" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7393749" lon="5.5403522"/>
+ <node id="9910266587" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7392387" lon="5.5403066"/>
+ <node id="9910266588" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7390352" lon="5.5401725"/>
+ <node id="9910266589" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7387257" lon="5.5403146"/>
+ <node id="9910266590" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7383878" lon="5.5403790"/>
+ <node id="9910266591" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7380995" lon="5.5404219"/>
+ <node id="9910266592" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7379120" lon="5.5403978"/>
+ <node id="9910266593" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7376856" lon="5.5403066"/>
+ <node id="9910266594" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7373123" lon="5.5400276"/>
+ <node id="9910266595" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7370823" lon="5.5397943"/>
+ <node id="9910266596" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7368471" lon="5.5394536"/>
+ <node id="9910266597" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7367038" lon="5.5390432"/>
+ <node id="9910266598" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7365472" lon="5.5388662"/>
+ <node id="9910266599" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7364252" lon="5.5387670"/>
+ <node id="9910266600" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7362423" lon="5.5385131"/>
+ <node id="9910266601" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7384932" lon="5.5374802">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="9910266603" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7354246" lon="5.5300417"/>
+ <node id="9910266604" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900" lat="48.7336062" lon="5.5254391"/>
+ <way id="176989371" visible="true" version="13" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="1874608836"/>
+  <nd ref="2457753342"/>
+  <nd ref="9045621856"/>
+  <nd ref="2457740611"/>
+  <nd ref="2457740581"/>
+  <nd ref="9104972877"/>
+  <nd ref="9910266569"/>
+  <nd ref="1874607014"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxspeed" v="50"/>
+  <tag k="name" v="Route Forestière du Cardinal"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="237903186" visible="true" version="5" changeset="37103027" timestamp="2016-02-09T14:43:06Z" user="S Latourte" uid="1725326">
+  <nd ref="2457753339"/>
+  <nd ref="3309470542"/>
+  <nd ref="2457753340"/>
+  <nd ref="3997553078"/>
+  <nd ref="2457753341"/>
+  <nd ref="3997553081"/>
+  <nd ref="3981892664"/>
+  <nd ref="3981892666"/>
+  <nd ref="2457753342"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="track"/>
+  <tag k="horse" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Tranchée du Crochet"/>
+ </way>
+ <way id="333916343" visible="true" version="2" changeset="53746414" timestamp="2017-11-13T17:44:46Z" user="AmiFritz" uid="172867">
+  <nd ref="813929584"/>
+  <nd ref="813930988"/>
+  <nd ref="813921930"/>
+  <nd ref="813924637"/>
+  <nd ref="813932322"/>
+  <nd ref="813916678"/>
+  <nd ref="813927814"/>
+  <nd ref="813919311"/>
+  <nd ref="813937277"/>
+  <nd ref="813929638"/>
+  <nd ref="813936156"/>
+  <nd ref="813929584"/>
+  <tag k="CLC:code" v="324"/>
+  <tag k="CLC:id" v="FR-35408"/>
+  <tag k="CLC:year" v="2006"/>
+  <tag k="landuse" v="forest"/>
+  <tag k="leaf_type" v="mixed"/>
+  <tag k="source" v="Union européenne - SOeS, CORINE Land Cover, 2006."/>
+ </way>
+ <way id="395277956" visible="true" version="1" changeset="36936045" timestamp="2016-02-01T13:07:12Z" user="S Latourte" uid="1725326">
+  <nd ref="3981892666"/>
+  <nd ref="1119344867"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="395277959" visible="true" version="1" changeset="36936045" timestamp="2016-02-01T13:07:12Z" user="S Latourte" uid="1725326">
+  <nd ref="2528001776"/>
+  <nd ref="1874608836"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="593077723" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9910266538"/>
+  <nd ref="5658787453"/>
+  <nd ref="5658787452"/>
+  <nd ref="5658787451"/>
+  <tag k="waterway" v="stream"/>
+ </way>
+ <way id="977581293" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9045621843"/>
+  <nd ref="9045621890"/>
+  <nd ref="9045621892"/>
+  <nd ref="9045621842"/>
+  <nd ref="9045621841"/>
+  <nd ref="9045621840"/>
+  <nd ref="9910266581"/>
+  <nd ref="9045621914"/>
+  <tag k="dog" v="no"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581295" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045624125"/>
+  <nd ref="9045621875"/>
+  <tag k="highway" v="path"/>
+  <tag k="note" v="Chemin qui continue"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581296" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621915"/>
+  <nd ref="9045621914"/>
+  <nd ref="9045621882"/>
+  <nd ref="9045621843"/>
+  <nd ref="9045621881"/>
+  <tag k="dog" v="no"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581297" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045624125"/>
+  <nd ref="9045621878"/>
+  <nd ref="9045621874"/>
+  <nd ref="9045621873"/>
+  <nd ref="9045621872"/>
+  <nd ref="9045621871"/>
+  <nd ref="9045621870"/>
+  <nd ref="9045621869"/>
+  <nd ref="9045621868"/>
+  <nd ref="9045621852"/>
+  <nd ref="9045621853"/>
+  <nd ref="9045621867"/>
+  <nd ref="9045621866"/>
+  <nd ref="9045621865"/>
+  <nd ref="9045621864"/>
+  <nd ref="9045621863"/>
+  <nd ref="9045621862"/>
+  <nd ref="9045621861"/>
+  <nd ref="9045621860"/>
+  <nd ref="9045621859"/>
+  <nd ref="9045621858"/>
+  <nd ref="9045621857"/>
+  <nd ref="9045621856"/>
+  <tag k="highway" v="path"/>
+  <tag k="name" v="Sentier du Cardinal de Retz"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581298" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621890"/>
+  <nd ref="9045621889"/>
+  <nd ref="9045621891"/>
+  <tag k="highway" v="path"/>
+  <tag k="incline" v="up"/>
+  <tag k="path" v="desire"/>
+  <tag k="smoothness" v="very_bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581299" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621892"/>
+  <nd ref="9045621891"/>
+  <tag k="highway" v="path"/>
+  <tag k="incline" v="up"/>
+  <tag k="path" v="desire"/>
+  <tag k="smoothness" v="very_bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581300" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621903"/>
+  <nd ref="9045621902"/>
+  <nd ref="9045621901"/>
+  <nd ref="9045621900"/>
+  <nd ref="9045621903"/>
+  <tag k="leisure" v="playground"/>
+  <tag k="max_age" v="15"/>
+  <tag k="min_age" v="6"/>
+  <tag k="opening_hours" v="24/7"/>
+  <tag k="operator" v="Ville de Commercy"/>
+  <tag k="smoking" v="no"/>
+ </way>
+ <way id="977581301" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621908"/>
+  <nd ref="9045621907"/>
+  <tag k="playground" v="zipwire"/>
+ </way>
+ <way id="977581302" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045621881"/>
+  <nd ref="9045621880"/>
+  <nd ref="9045621877"/>
+  <nd ref="9045621879"/>
+  <nd ref="9045624125"/>
+  <tag k="destination:forward" v="Arboretum;Jartin Botanique"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581303" visible="true" version="2" changeset="140684292" timestamp="2023-09-01T15:06:53Z" user="zorglubu" uid="6466263">
+  <nd ref="9045621916"/>
+  <nd ref="9045621915"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="bridge:structure" v="beam"/>
+  <tag k="dog" v="no"/>
+  <tag k="highway" v="path"/>
+  <tag k="layer" v="1"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581304" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045624117"/>
+  <nd ref="9045621916"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581305" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="2072645888"/>
+  <nd ref="2072645890"/>
+  <nd ref="2072645891"/>
+  <nd ref="2072645889"/>
+  <nd ref="9910266601"/>
+  <nd ref="2072645892"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxweight" v="5.5"/>
+  <tag k="name" v="Chemin de la Fontaine Royale"/>
+  <tag k="smoothness" v="good"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="977581306" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045624120"/>
+  <nd ref="9045624119"/>
+  <tag k="highway" v="path"/>
+  <tag k="incline" v="down"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581307" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="9045624124"/>
+  <nd ref="9045624123"/>
+  <tag k="highway" v="path"/>
+  <tag k="note" v="Chemin qui continue"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581308" visible="true" version="1" changeset="110421810" timestamp="2021-08-29T17:31:22Z" user="cyel" uid="10434036">
+  <nd ref="1874607010"/>
+  <nd ref="9045624127"/>
+  <nd ref="9045624124"/>
+  <nd ref="9045624126"/>
+  <nd ref="9045624125"/>
+  <tag k="cutline" v="section"/>
+  <tag k="highway" v="path"/>
+  <tag k="man_made" v="cutline"/>
+  <tag k="note" v="Parcelle forestière à droite n°13"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581310" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9045624138"/>
+  <nd ref="9045624137"/>
+  <nd ref="9045624136"/>
+  <nd ref="9910266537"/>
+  <nd ref="9910266536"/>
+  <nd ref="9910266535"/>
+  <nd ref="1874607043"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey"/>
+  <tag k="surface" v="ground"/>
+ </way>
+ <way id="977581316" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9045624151"/>
+  <nd ref="1874607067"/>
+  <nd ref="9045624146"/>
+  <nd ref="9045624144"/>
+  <nd ref="9045624132"/>
+  <nd ref="1874607040"/>
+  <nd ref="1874607010"/>
+  <nd ref="9910266534"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxweight" v="5.5"/>
+  <tag k="name" v="Chemin de la Fontaine Royale"/>
+  <tag k="smoothness" v="good"/>
+  <tag k="surface" v="compacted"/>
+  <tag k="tracktype" v="grade2"/>
+  <tag k="vehicle" v="no"/>
+ </way>
+ <way id="984829735" visible="true" version="2" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="2072645572"/>
+  <nd ref="3981892667"/>
+  <nd ref="2072645636"/>
+  <nd ref="1874608836"/>
+  <nd ref="9910266600"/>
+  <nd ref="2072645573"/>
+  <nd ref="2072645892"/>
+  <tag k="highway" v="track"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="1081239915" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="1874607043"/>
+  <nd ref="9045624120"/>
+  <nd ref="1874607038"/>
+  <nd ref="9045624117"/>
+  <nd ref="2072645888"/>
+  <tag k="highway" v="track"/>
+  <tag k="maxweight" v="5.5"/>
+  <tag k="name" v="Chemin de la Fontaine Royale"/>
+  <tag k="smoothness" v="good"/>
+  <tag k="surface" v="compacted"/>
+  <tag k="tracktype" v="grade2"/>
+  <tag k="vehicle" v="no"/>
+ </way>
+ <way id="1081239916" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9910266534"/>
+  <nd ref="1874607043"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="track"/>
+  <tag k="layer" v="1"/>
+  <tag k="maxweight" v="5.5"/>
+  <tag k="name" v="Chemin de la Fontaine Royale"/>
+  <tag k="smoothness" v="good"/>
+  <tag k="surface" v="compacted"/>
+  <tag k="tracktype" v="grade2"/>
+  <tag k="vehicle" v="no"/>
+ </way>
+ <way id="1081239925" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9910266600"/>
+  <nd ref="9910266599"/>
+  <nd ref="9910266598"/>
+  <nd ref="9910266597"/>
+  <nd ref="9910266596"/>
+  <nd ref="9910266595"/>
+  <nd ref="9910266594"/>
+  <nd ref="9910266593"/>
+  <nd ref="9910266592"/>
+  <nd ref="9910266591"/>
+  <nd ref="9910266590"/>
+  <nd ref="9910266589"/>
+  <nd ref="9910266588"/>
+  <nd ref="9910266587"/>
+  <nd ref="9910266586"/>
+  <nd ref="9910266585"/>
+  <nd ref="9910266584"/>
+  <nd ref="9910266583"/>
+  <nd ref="9910266582"/>
+  <nd ref="9910266581"/>
+  <tag k="highway" v="path"/>
+  <tag k="smoothness" v="very_bad"/>
+ </way>
+ <way id="1081239926" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="2072645892"/>
+  <nd ref="3309342486"/>
+  <tag k="highway" v="track"/>
+  <tag k="tracktype" v="grade1"/>
+ </way>
+ <way id="1081239929" visible="true" version="1" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <nd ref="9910266604"/>
+  <nd ref="2072645569"/>
+  <nd ref="9910266603"/>
+  <nd ref="8337532732"/>
+  <nd ref="2072645635"/>
+  <nd ref="2072645599"/>
+  <nd ref="2072645601"/>
+  <nd ref="2072645573"/>
+  <tag k="highway" v="track"/>
+  <tag k="name" v="Route Forestière de la Charlotte"/>
+  <tag k="tracktype" v="grade2"/>
+  <tag k="vehicle" v="private"/>
+ </way>
+ <relation id="13140419" visible="true" version="4" changeset="124065868" timestamp="2022-07-25T19:09:30Z" user="Axelos" uid="609900">
+  <member type="way" ref="423423227" role=""/>
+  <member type="way" ref="984829731" role=""/>
+  <member type="way" ref="395277959" role=""/>
+  <member type="way" ref="259353490" role=""/>
+  <member type="way" ref="320552398" role=""/>
+  <member type="way" ref="977581342" role=""/>
+  <member type="way" ref="245641928" role=""/>
+  <member type="way" ref="984829733" role=""/>
+  <member type="way" ref="984829732" role=""/>
+  <member type="way" ref="984829734" role=""/>
+  <member type="way" ref="1081239917" role=""/>
+  <member type="way" ref="1081239918" role=""/>
+  <member type="way" ref="977581317" role=""/>
+  <member type="way" ref="977581316" role=""/>
+  <member type="way" ref="1081239916" role=""/>
+  <member type="way" ref="1081239915" role=""/>
+  <member type="way" ref="977581305" role=""/>
+  <tag k="distance" v="13"/>
+  <tag k="name" v="La Fontaine Royale"/>
+  <tag k="network" v="lwn"/>
+  <tag k="note" v="Itinéraire incomplet, Continuer à repérer sur le terrain"/>
+  <tag k="operator" v="Club des Cotes"/>
+  <tag k="osmc:symbol" v="red:white:red_triangle"/>
+  <tag k="roundtrip" v="yes"/>
+  <tag k="route" v="hiking"/>
+  <tag k="state" v="proposed"/>
+  <tag k="symbol" v="triangle rouge"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

@@ -45,10 +45,6 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
     #Coordonnées de l'utilisateur 
     coords_user = (latitude_user, longitude_user)
 
-    #Initialisation router
-    router = Router("car")
-    depart = router.findNode(latitude_user, longitude_user)
-
     m = folium.Map([latitude_user, longitude_user])
 
     #Création de liste pour prendre uniquement une destination pour le tracé d'un itinéraire
@@ -82,16 +78,36 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
         exit()"""
 
 
-    # Afficher tous les points dans le périmètre utilisateur
+    #Initialisation router
+    router = Router("car")
+    depart = router.findNode(latitude_user, longitude_user)
+
+    # Afficher tous les établissements dans le périmètre utilisateur
+    data_distanced = []
     for row in data:
         name = row.name
         lat = float(row.lat)
         lon = float(row.lon)
-        #print(lat, lon)
         coords_resto = (lat, lon)
-        distance = int(geopy.distance.geodesic(coords_user, coords_resto).km)
-        
-        if float(perimetre_user/1000) > float(distance):
+        distance_geodesic = int(geopy.distance.geodesic(coords_user, coords_resto).km)
+
+
+        if float(perimetre_user/1000) > float(distance_geodesic):
+            print(row.name)
+            #initialisation itineraire
+            arrivee = router.findNode(float(lat), float(lon))
+            status, itineraire = router.doRoute(depart, arrivee)
+            itineraire_coordonnees = list(map(router.nodeLatLon, itineraire)) # liste des points du parcours
+
+            ##calcul des distances cumulées
+            L=len(itineraire_coordonnees)#taille de la liste = nombre de points
+            d=[]#initialisation de la distance : liste vide
+            d_cum=[]#initialisation de la distance cumulée: liste vide
+            for i in range(1, L):
+                d.append(router.distance(itineraire_coordonnees[i-1],itineraire_coordonnees[i]))#liste des distances entre deux points
+            d_cum.append(sum(d))#liste des distances cumulées
+            distance=round(d_cum[-1], 2)#écriture arrondie à deux chiffres après la virgule
+
             popup_description = name + "\n\n" + " -> distance en km :" + str(distance)
             #print("condition fonctionne")
             folium.Marker(
@@ -101,17 +117,13 @@ def visualize_data(data, latitude_user, longitude_user, perimetre_user, query_el
                 icon=folium.Icon(color="blue"),
             ).add_to(m)
 
-
-    # tracé d'un itinéraire   
-    """arrivee = router.findNode(float(mean_lat[0]), float(mean_lon[0]))
-    status, itineraire = router.doRoute(depart, arrivee)
-    itineraire_coordonnees = list(map(router.nodeLatLon, itineraire)) # liste des points du parcours
-    folium.PolyLine(
-        itineraire_coordonnees,
-        color="blue",
-        weight=2.5,
-        opacity=1
-        ).add_to(m)"""
+            # tracé d'un itinéraire   
+            folium.PolyLine(
+                itineraire_coordonnees,
+                color="blue",
+                weight=2.5,
+                opacity=1
+                ).add_to(m)
 
 
     #tracé du périmètre

@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (2999740 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.5166043" minlon="5.8117676" maxlat="48.5238812" maxlon="5.8227539"/>
+ <node id="915912017" visible="true" version="3" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5178657" lon="5.8217058"/>
+ <node id="915914379" visible="true" version="3" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5149334" lon="5.8181912"/>
+ <node id="1419311741" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5134326" lon="5.8255968"/>
+ <node id="1419311752" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5004778" lon="5.8377883"/>
+ <node id="1419311755" visible="true" version="3" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5171731" lon="5.8229906"/>
+ <node id="1419311757" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5188604" lon="5.8200227"/>
+ <node id="1419311759" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5185832" lon="5.8202641"/>
+ <node id="1419311775" visible="true" version="2" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5246376" lon="5.8165144"/>
+ <node id="1419311776" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4985788" lon="5.8413905"/>
+ <node id="1419311778" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5141470" lon="5.8238470"/>
+ <node id="1419311779" visible="true" version="10" changeset="129119608" timestamp="2022-11-19T11:22:43Z" user="Denis_Helfer" uid="22165" lat="48.5138298" lon="5.8248342">
+  <tag k="crossing:activation" v="automatic"/>
+  <tag k="crossing:barrier" v="half"/>
+  <tag k="crossing:bell" v="yes"/>
+  <tag k="crossing:light" v="yes"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="railway:position:exact" v="92.337"/>
+  <tag k="ref" v="101"/>
+  <tag k="ref:FR:SNCF_Reseau:RESEAU" v="10000011162"/>
+  <tag k="source" v="BDOrtho IGN;SNCF Réseau"/>
+ </node>
+ <node id="1419311782" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5167479" lon="5.8233678"/>
+ <node id="1419311796" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:23Z" user="inisheer" uid="195875" lat="48.5239128" lon="5.8169583"/>
+ <node id="1419311800" visible="true" version="3" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5248268" lon="5.8163051"/>
+ <node id="1419311806" visible="true" version="3" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5178610" lon="5.8215783"/>
+ <node id="1419311854" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5023723" lon="5.8344678"/>
+ <node id="1419311855" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:24Z" user="inisheer" uid="195875" lat="48.4978208" lon="5.8437267"/>
+ <node id="1419311857" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5181373" lon="5.8209937"/>
+ <node id="1419311859" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5172907" lon="5.8228242"/>
+ <node id="1419311872" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4887940" lon="5.8522353"/>
+ <node id="1419311873" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:25Z" user="inisheer" uid="195875" lat="48.5183913" lon="5.8204988"/>
+ <node id="1419311874" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5175421" lon="5.8223468"/>
+ <node id="1419311876" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:25Z" user="inisheer" uid="195875" lat="48.5222572" lon="5.8182135"/>
+ <node id="1419311877" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:25Z" user="inisheer" uid="195875" lat="48.4890544" lon="5.8523033"/>
+ <node id="1419311881" visible="true" version="4" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5140112" lon="5.8241744"/>
+ <node id="1419311882" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4979256" lon="5.8429610"/>
+ <node id="1419311885" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4976013" lon="5.8442779"/>
+ <node id="1419311888" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5032557" lon="5.8326251"/>
+ <node id="1419311894" visible="true" version="2" changeset="15102846" timestamp="2013-02-20T17:40:11Z" user="Rom1" uid="337375" lat="48.5160484" lon="5.8232278"/>
+ <node id="1419311899" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5038928" lon="5.8320739"/>
+ <node id="1419311901" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5137861" lon="5.8249620"/>
+ <node id="1419311903" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5010839" lon="5.8368562"/>
+ <node id="1419311906" visible="true" version="2" changeset="17558748" timestamp="2013-08-28T17:37:45Z" user="Rom1" uid="337375" lat="48.5249838" lon="5.8161786"/>
+ <node id="1419311908" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5030637" lon="5.8328504"/>
+ <node id="1419311910" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:26Z" user="inisheer" uid="195875" lat="48.5057543" lon="5.8304766"/>
+ <node id="1419311913" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:26Z" user="inisheer" uid="195875" lat="48.5083559" lon="5.8286956"/>
+ <node id="1419311927" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5012145" lon="5.8365464"/>
+ <node id="1419311932" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4978856" lon="5.8432600"/>
+ <node id="1419311936" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5166182" lon="5.8233996"/>
+ <node id="1419311938" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5136084" lon="5.8253818"/>
+ <node id="1419311954" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5179853" lon="5.8213114"/>
+ <node id="1419311955" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4895335" lon="5.8523624"/>
+ <node id="1419311956" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4893166" lon="5.8523399"/>
+ <node id="1419311958" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5230725" lon="5.8175698"/>
+ <node id="1419311964" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5130887" lon="5.8259019"/>
+ <node id="1419311966" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5001766" lon="5.8382550"/>
+ <node id="1419311978" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4934700" lon="5.8475813"/>
+ <node id="1419311979" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5143444" lon="5.8234621"/>
+ <node id="1419311980" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5026879" lon="5.8335477"/>
+ <node id="1419311981" visible="true" version="2" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5241881" lon="5.8168590"/>
+ <node id="1419311983" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5024683" lon="5.8342115"/>
+ <node id="1419311992" visible="true" version="3" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5174135" lon="5.8226122"/>
+ <node id="1419312023" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:29Z" user="inisheer" uid="195875" lat="48.4983913" lon="5.8418239"/>
+ <node id="1419312024" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5018401" lon="5.8354387"/>
+ <node id="1419312026" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5013825" lon="5.8361910"/>
+ <node id="1419312027" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4922186" lon="5.8494723"/>
+ <node id="1419312036" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5226658" lon="5.8179346"/>
+ <node id="1419312046" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5034147" lon="5.8324829"/>
+ <node id="1419312054" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4953760" lon="5.8460589"/>
+ <node id="1419312083" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4924469" lon="5.8489748"/>
+ <node id="1419312086" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5051358" lon="5.8309326"/>
+ <node id="1419312091" visible="true" version="2" changeset="15102846" timestamp="2013-02-20T17:40:11Z" user="Rom1" uid="337375" lat="48.5155954" lon="5.8230873"/>
+ <node id="1419312094" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4928780" lon="5.8482492"/>
+ <node id="1419312096" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5044570" lon="5.8314502"/>
+ <node id="1419312098" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4932825" lon="5.8477517"/>
+ <node id="1419312108" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4997154" lon="5.8390275"/>
+ <node id="1419312109" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5025661" lon="5.8338924"/>
+ <node id="1419312110" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4980883" lon="5.8424849"/>
+ <node id="1419312111" visible="true" version="2" changeset="15102846" timestamp="2013-02-20T17:40:11Z" user="Rom1" uid="337375" lat="48.5152819" lon="5.8229845"/>
+ <node id="1419312112" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5228985" lon="5.8177602"/>
+ <node id="1419312113" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5036510" lon="5.8323032"/>
+ <node id="1419312114" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5126247" lon="5.8262106"/>
+ <node id="1419312128" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4972520" lon="5.8445689"/>
+ <node id="1419312138" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5148350" lon="5.8229361"/>
+ <node id="1419312141" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:31Z" user="inisheer" uid="195875" lat="48.5193152" lon="5.8197156"/>
+ <node id="1419312143" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5139370" lon="5.8244239"/>
+ <node id="1419312145" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5139051" lon="5.8245288"/>
+ <node id="1419312152" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4912347" lon="5.8514343"/>
+ <node id="1419312155" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:32Z" user="inisheer" uid="195875" lat="48.4900890" lon="5.8523328"/>
+ <node id="1419312169" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4931455" lon="5.8478989"/>
+ <node id="1419312173" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5146083" lon="5.8230650"/>
+ <node id="1419312175" visible="true" version="3" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5176711" lon="5.8220325"/>
+ <node id="1419312188" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4903690" lon="5.8521438"/>
+ <node id="1419312194" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5232360" lon="5.8173686"/>
+ <node id="1419312203" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5233887" lon="5.8171970"/>
+ <node id="1419312209" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5028434" lon="5.8332178"/>
+ <node id="1419312212" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5078902" lon="5.8289571"/>
+ <node id="1419312219" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:33Z" user="inisheer" uid="195875" lat="48.5063656" lon="5.8300153"/>
+ <node id="1419312236" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4982331" lon="5.8421670"/>
+ <node id="1419312238" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4990516" lon="5.8403284"/>
+ <node id="1419312239" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4917093" lon="5.8506927"/>
+ <node id="1419312241" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:34Z" user="inisheer" uid="195875" lat="48.4977710" lon="5.8439735"/>
+ <node id="1419312258" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5089761" lon="5.8284301"/>
+ <node id="1419312273" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5215660" lon="5.8186320"/>
+ <node id="1419312275" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5112754" lon="5.8270595"/>
+ <node id="1419312282" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5137363" lon="5.8251167"/>
+ <node id="1419312284" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5047746" lon="5.8312149"/>
+ <node id="1419312296" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5098868" lon="5.8279124"/>
+ <node id="1419312298" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4961936" lon="5.8454058"/>
+ <node id="1419312300" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:36Z" user="inisheer" uid="195875" lat="48.5015744" lon="5.8358625"/>
+ <node id="1419312302" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:36Z" user="inisheer" uid="195875" lat="48.5093652" lon="5.8282450"/>
+ <node id="1419312303" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5021076" lon="5.8350015"/>
+ <node id="1419312305" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:36Z" user="inisheer" uid="195875" lat="48.5163659" lon="5.8233419"/>
+ <node id="1419312306" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4884029" lon="5.8520743"/>
+ <node id="1419312314" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4907245" lon="5.8518608"/>
+ <node id="1419312316" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4999580" lon="5.8386104"/>
+ <node id="1419312319" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4918806" lon="5.8502753"/>
+ <node id="1419312340" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4941379" lon="5.8470553"/>
+ <node id="1419312344" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5008635" lon="5.8372506"/>
+ <node id="1419312346" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:37Z" user="inisheer" uid="195875" lat="48.4969179" lon="5.8448318"/>
+ <node id="1419312348" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4885433" lon="5.8521386"/>
+ <node id="1419312355" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4979950" lon="5.8426967"/>
+ <node id="1419312383" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5211184" lon="5.8188680"/>
+ <node id="1419312388" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:38Z" user="inisheer" uid="195875" lat="48.5236286" lon="5.8170441"/>
+ <node id="1419312391" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:38Z" user="inisheer" uid="195875" lat="48.5205446" lon="5.8191148"/>
+ <node id="1419312398" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4915529" lon="5.8510722"/>
+ <node id="1419312404" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4926974" lon="5.8485014"/>
+ <node id="1419312405" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4994320" lon="5.8395706"/>
+ <node id="1419312407" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5169655" lon="5.8232110"/>
+ <node id="1419312409" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5071102" lon="5.8294640"/>
+ <node id="1419312412" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5040980" lon="5.8318419"/>
+ <node id="1419312417" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:39Z" user="inisheer" uid="195875" lat="48.4897509" lon="5.8523741"/>
+ <node id="1419312418" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4988072" lon="5.8408487"/>
+ <node id="1419312428" visible="true" version="3" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5144493" lon="5.8232885"/>
+ <node id="1419312434" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4937220" lon="5.8473799"/>
+ <node id="1419312438" visible="true" version="2" changeset="15102846" timestamp="2013-02-20T17:40:12Z" user="Rom1" uid="337375" lat="48.5150941" lon="5.8229314"/>
+ <node id="1419312441" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4914035" lon="5.8512828"/>
+ <node id="1419312444" visible="true" version="2" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4946996" lon="5.8466100"/>
+ <node id="1419312454" visible="true" version="1" changeset="9177345" timestamp="2011-08-31T16:03:40Z" user="inisheer" uid="195875" lat="48.4976715" lon="5.8441880"/>
+ <node id="1991036987" visible="true" version="1" changeset="13701063" timestamp="2012-10-31T15:47:38Z" user="toshinden" uid="24000" lat="48.4881623" lon="5.8519590"/>
+ <node id="2164154634" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5119763" lon="5.8266285"/>
+ <node id="2164154646" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5128606" lon="5.8260573"/>
+ <node id="2164154650" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5132817" lon="5.8257433"/>
+ <node id="2164154652" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5136787" lon="5.8252644"/>
+ <node id="2164154653" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5145410" lon="5.8231449"/>
+ <node id="2164154655" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5147451" lon="5.8229667"/>
+ <node id="2164154658" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5149226" lon="5.8229250"/>
+ <node id="2164154660" visible="true" version="2" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5150027" lon="5.8205123"/>
+ <node id="2164154667" visible="true" version="1" changeset="15102846" timestamp="2013-02-20T17:38:20Z" user="Rom1" uid="337375" lat="48.5158294" lon="5.8188631"/>
+ <node id="2164154669" visible="true" version="1" changeset="15102846" timestamp="2013-02-20T17:38:20Z" user="Rom1" uid="337375" lat="48.5162200" lon="5.8232856"/>
+ <node id="2164154670" visible="true" version="1" changeset="15102846" timestamp="2013-02-20T17:38:20Z" user="Rom1" uid="337375" lat="48.5164859" lon="5.8233822"/>
+ <node id="2164154672" visible="true" version="1" changeset="15102846" timestamp="2013-02-20T17:38:22Z" user="Rom1" uid="337375" lat="48.5165521" lon="5.8233941"/>
+ <node id="2164154673" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5166870" lon="5.8233953"/>
+ <node id="2164154674" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5168474" lon="5.8233101"/>
+ <node id="2164154677" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5170860" lon="5.8230921"/>
+ <node id="2164154679" visible="true" version="2" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5176969" lon="5.8220583"/>
+ <node id="2457328763" visible="true" version="8" changeset="129119608" timestamp="2022-11-19T11:22:43Z" user="Denis_Helfer" uid="22165" lat="48.5138437" lon="5.8247901">
+  <tag k="crossing:activation" v="automatic"/>
+  <tag k="crossing:barrier" v="half"/>
+  <tag k="crossing:bell" v="yes"/>
+  <tag k="crossing:light" v="yes"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="railway:position:exact" v="92.337"/>
+  <tag k="ref" v="101"/>
+  <tag k="ref:FR:SNCF_Reseau:RESEAU" v="10000011162"/>
+  <tag k="source" v="BDOrtho IGN;SNCF Réseau"/>
+ </node>
+ <node id="2457328774" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5138723" lon="5.8246920"/>
+ <node id="2457328778" visible="true" version="2" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5140804" lon="5.8239950"/>
+ <node id="5796390446" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5237417" lon="5.8170070"/>
+ <node id="5796390447" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5227414" lon="5.8146198"/>
+ <node id="5796390448" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5215703" lon="5.8122129"/>
+ <node id="5796390449" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5210460" lon="5.8104727"/>
+ <node id="5796390451" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5188199" lon="5.8103326"/>
+ <node id="5796390452" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5174695" lon="5.8112627"/>
+ <node id="5796395853" visible="true" version="1" changeset="61200167" timestamp="2018-07-30T15:54:04Z" user="Alain_88" uid="4746809" lat="48.5162114" lon="5.8114175"/>
+ <node id="5796395854" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5148790" lon="5.8116823"/>
+ <node id="5796395855" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5147423" lon="5.8116763"/>
+ <node id="5796395856" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5132542" lon="5.8109587"/>
+ <node id="5796395857" visible="true" version="1" changeset="61200167" timestamp="2018-07-30T15:54:04Z" user="Alain_88" uid="4746809" lat="48.5114335" lon="5.8108749"/>
+ <node id="5796395858" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5113552" lon="5.8108755"/>
+ <node id="5796395859" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5113012" lon="5.8108900"/>
+ <node id="5796395860" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112171" lon="5.8109875"/>
+ <node id="5796395861" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112031" lon="5.8110672"/>
+ <node id="5796395862" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5114079" lon="5.8131943"/>
+ <node id="5796395863" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5114540" lon="5.8134194"/>
+ <node id="5796395864" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5115279" lon="5.8135650"/>
+ <node id="5796395865" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5115896" lon="5.8136522"/>
+ <node id="5796395866" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5122729" lon="5.8145311"/>
+ <node id="5796395867" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5124467" lon="5.8147614"/>
+ <node id="5796395868" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5127697" lon="5.8153119"/>
+ <node id="5796395869" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5130739" lon="5.8159230"/>
+ <node id="5796395870" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5133284" lon="5.8164033"/>
+ <node id="5796395871" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5136322" lon="5.8167860"/>
+ <node id="5796395872" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5144756" lon="5.8177512"/>
+ <node id="5796395873" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5149333" lon="5.8181121"/>
+ <node id="5796395874" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5159930" lon="5.8189296"/>
+ <node id="5796395875" visible="true" version="1" changeset="61200167" timestamp="2018-07-30T15:54:04Z" user="Alain_88" uid="4746809" lat="48.5164151" lon="5.8192878"/>
+ <node id="5796395876" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5167115" lon="5.8194142"/>
+ <node id="5796395877" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5169031" lon="5.8194364"/>
+ <node id="5796395878" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5176231" lon="5.8194821"/>
+ <node id="5796395879" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5178390" lon="5.8194481"/>
+ <node id="5796395880" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5180753" lon="5.8194092"/>
+ <node id="5796395881" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5182090" lon="5.8194315"/>
+ <node id="5796395882" visible="true" version="1" changeset="61200167" timestamp="2018-07-30T15:54:04Z" user="Alain_88" uid="4746809" lat="48.5185290" lon="5.8196133"/>
+ <node id="5796395883" visible="true" version="1" changeset="61200167" timestamp="2018-07-30T15:54:04Z" user="Alain_88" uid="4746809" lat="48.5190264" lon="5.8198995"/>
+ <node id="7064657893" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5049299" lon="5.8310936"/>
+ <node id="7064657894" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5149964" lon="5.8229242"/>
+ <node id="7064657895" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5146846" lon="5.8230034"/>
+ <node id="7064657896" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5135270" lon="5.8254857"/>
+ <node id="7064657897" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5116302" lon="5.8268416"/>
+ <node id="7064657898" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5096196" lon="5.8280888"/>
+ <node id="7064657899" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5091834" lon="5.8283369"/>
+ <node id="7064657900" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5075068" lon="5.8291952"/>
+ <node id="7064657901" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5067418" lon="5.8297290"/>
+ <node id="7064657902" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.4989302" lon="5.8405745"/>
+ <node id="7064657903" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5009856" lon="5.8370461"/>
+ <node id="7064657904" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5022670" lon="5.8347005"/>
+ <node id="7064657905" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5026278" lon="5.8337067"/>
+ <node id="7064657906" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5027655" lon="5.8333701"/>
+ <node id="7064657907" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5029601" lon="5.8330120"/>
+ <node id="7064657908" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5031707" lon="5.8327143"/>
+ <node id="7064657909" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5033297" lon="5.8325547"/>
+ <node id="7064657910" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5037758" lon="5.8321886"/>
+ <node id="7064657911" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5039971" lon="5.8319592"/>
+ <node id="7064657912" visible="true" version="1" changeset="78545646" timestamp="2019-12-17T20:59:52Z" user="Rom1" uid="337375" lat="48.5043098" lon="5.8315891"/>
+ <node id="7089764157" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5210743" lon="5.8105874"/>
+ <node id="7089764158" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5208653" lon="5.8092236"/>
+ <node id="7089764159" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5189300" lon="5.8102655"/>
+ <node id="7089764160" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5198698" lon="5.8097881"/>
+ <node id="7089764161" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5175575" lon="5.8112298"/>
+ <node id="7089764162" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5176224" lon="5.8111909"/>
+ <node id="7089764163" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5155472" lon="5.8115329"/>
+ <node id="7089764164" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5148063" lon="5.8116925"/>
+ <node id="7089764165" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5133884" lon="5.8109951"/>
+ <node id="7089764166" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112366" lon="5.8116549"/>
+ <node id="7089764167" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112055" lon="5.8112030"/>
+ <node id="7089764168" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112802" lon="5.8121283"/>
+ <node id="7089764169" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5112517" lon="5.8109321"/>
+ <node id="7089764171" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5114294" lon="5.8133166"/>
+ <node id="7089764172" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5114845" lon="5.8134989"/>
+ <node id="7089764173" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5117670" lon="5.8138731"/>
+ <node id="7089764174" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5119447" lon="5.8140944"/>
+ <node id="7089764175" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5126075" lon="5.8150251"/>
+ <node id="7089764176" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5134710" lon="5.8165929"/>
+ <node id="7089764177" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5142644" lon="5.8175276"/>
+ <node id="7089764178" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5140432" lon="5.8172862"/>
+ <node id="7089764179" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5146873" lon="5.8179340"/>
+ <node id="7089764180" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5161637" lon="5.8190873"/>
+ <node id="7089764181" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5163192" lon="5.8192174"/>
+ <node id="7089764182" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5165271" lon="5.8193488"/>
+ <node id="7089764183" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5166257" lon="5.8193891"/>
+ <node id="7089764184" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5172262" lon="5.8194682"/>
+ <node id="7089764185" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5175291" lon="5.8194870"/>
+ <node id="7089764186" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5177237" lon="5.8194695"/>
+ <node id="7089764187" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5179751" lon="5.8194172"/>
+ <node id="7089764188" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5181447" lon="5.8194146"/>
+ <node id="7089764189" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5235135" lon="5.8171025"/>
+ <node id="7089764190" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5196140" lon="5.8195513"/>
+ <node id="7089764191" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5199444" lon="5.8193904"/>
+ <node id="7089764192" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5187124" lon="5.8201441"/>
+ <node id="7089764193" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5184938" lon="5.8203627"/>
+ <node id="7089764194" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5168866" lon="5.8232772"/>
+ <node id="7089764195" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5170014" lon="5.8233990"/>
+ <node id="7089764196" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5170885" lon="5.8234821"/>
+ <node id="7089764197" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5188545" lon="5.8248219"/>
+ <node id="7089764198" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5189451" lon="5.8248796"/>
+ <node id="7089764199" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5190259" lon="5.8249077"/>
+ <node id="7089764200" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5193484" lon="5.8249600"/>
+ <node id="7089764201" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5193608" lon="5.8249386"/>
+ <node id="7089764202" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5193626" lon="5.8249077"/>
+ <node id="7089764203" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375" lat="48.5193502" lon="5.8248568"/>
+ <node id="7200966220" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4889122" lon="5.8522703"/>
+ <node id="7200966221" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4977331" lon="5.8440842"/>
+ <node id="7200966222" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4914880" lon="5.8511773"/>
+ <node id="7200966223" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4902143" lon="5.8522636"/>
+ <node id="7200966224" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4900037" lon="5.8523615"/>
+ <node id="7200966225" visible="true" version="1" changeset="80804785" timestamp="2020-02-10T15:57:38Z" user="Rom1" uid="337375" lat="48.4898961" lon="5.8523776"/>
+ <node id="9265102587" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5132414" lon="5.8216269"/>
+ <node id="9265102589" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5141240" lon="5.8223113"/>
+ <node id="9265102590" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5147512" lon="5.8227941"/>
+ <node id="9265102591" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5147761" lon="5.8228062"/>
+ <node id="9265102592" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5149831" lon="5.8228102"/>
+ <node id="9265102593" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5150550" lon="5.8228196"/>
+ <node id="9265102594" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5152683" lon="5.8228880"/>
+ <node id="9265102595" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5163885" lon="5.8232488"/>
+ <node id="9265102596" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5165999" lon="5.8232944"/>
+ <node id="9265102597" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5166887" lon="5.8232917"/>
+ <node id="9265102598" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5168940" lon="5.8231817"/>
+ <node id="9265102599" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5169837" lon="5.8230892"/>
+ <node id="9265102600" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5171489" lon="5.8229081"/>
+ <node id="9265102601" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5173603" lon="5.8225608"/>
+ <node id="9265102602" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5174811" lon="5.8223395"/>
+ <node id="9265102603" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5176116" lon="5.8220086"/>
+ <node id="9265102604" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5174883" lon="5.8225447"/>
+ <node id="9265102605" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5173959" lon="5.8227190"/>
+ <node id="9265102606" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5173008" lon="5.8228773"/>
+ <node id="9265102607" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5171969" lon="5.8230221"/>
+ <node id="9265102608" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5170734" lon="5.8231656"/>
+ <node id="9265102609" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5169544" lon="5.8232877"/>
+ <node id="9265102610" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5170085" lon="5.8233654"/>
+ <node id="9265102611" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5170974" lon="5.8234446"/>
+ <node id="9265102612" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5176784" lon="5.8238885"/>
+ <node id="9265102613" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5187284" lon="5.8246838"/>
+ <node id="9265102614" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5189238" lon="5.8248246"/>
+ <node id="9265102615" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5190037" lon="5.8248661"/>
+ <node id="9265102616" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5190659" lon="5.8248863"/>
+ <node id="9265102617" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5191867" lon="5.8249024"/>
+ <node id="9265102618" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5193262" lon="5.8249184"/>
+ <node id="9265102619" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5193282" lon="5.8248749"/>
+ <node id="9265102696" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5249115" lon="5.8162281"/>
+ <node id="9265102697" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5245101" lon="5.8166438"/>
+ <node id="9265102698" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5243493" lon="5.8167753"/>
+ <node id="9265102717" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5178240" lon="5.8217615"/>
+ <node id="9265102718" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5190570" lon="5.8242506"/>
+ <node id="9265102719" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375" lat="48.5186422" lon="5.8233574"/>
+ <node id="9267648927" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5197022" lon="5.8099215"/>
+ <node id="9267648928" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5189540" lon="5.8103286"/>
+ <node id="9267648929" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5188110" lon="5.8104117"/>
+ <node id="9267648930" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5181678" lon="5.8108543"/>
+ <node id="9267648932" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5201425" lon="5.8118816"/>
+ <node id="9267648933" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5201888" lon="5.8118561"/>
+ <node id="9267648934" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5203459" lon="5.8121028"/>
+ <node id="9267648935" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5209979" lon="5.8105713"/>
+ <node id="9267648937" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5209775" lon="5.8104117"/>
+ <node id="9267648938" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5208150" lon="5.8093281"/>
+ <node id="9267648939" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5219368" lon="5.8131503"/>
+ <node id="9267648940" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5221633" lon="5.8135968"/>
+ <node id="9267648941" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5224369" lon="5.8141507"/>
+ <node id="9267648942" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5226101" lon="5.8145128"/>
+ <node id="9267648943" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5227540" lon="5.8148186"/>
+ <node id="9267648944" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5229645" lon="5.8153121"/>
+ <node id="9267648945" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5236192" lon="5.8168946"/>
+ <node id="9267648946" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5236041" lon="5.8169872"/>
+ <node id="9267648947" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5234717" lon="5.8170529"/>
+ <node id="9267648948" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5233563" lon="5.8171333"/>
+ <node id="9267648949" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5231422" lon="5.8173707"/>
+ <node id="9267648950" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5229352" lon="5.8176188"/>
+ <node id="9267648951" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5228242" lon="5.8177234"/>
+ <node id="9267648952" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5226359" lon="5.8178616"/>
+ <node id="9267648953" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5219591" lon="5.8182853"/>
+ <node id="9267648954" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5215709" lon="5.8185388"/>
+ <node id="9267648955" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5212413" lon="5.8187172"/>
+ <node id="9267648956" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5208523" lon="5.8188955"/>
+ <node id="9267648957" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5197766" lon="5.8193998"/>
+ <node id="9267648958" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5194115" lon="5.8195835"/>
+ <node id="9267648959" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5190686" lon="5.8197874"/>
+ <node id="9267648960" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5190197" lon="5.8197807"/>
+ <node id="9267648961" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5184663" lon="5.8137618"/>
+ <node id="9267648962" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375" lat="48.5215087" lon="5.8122598"/>
+ <node id="9281290787" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5162588" lon="5.8193006"/>
+ <node id="9281290788" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5158963" lon="5.8189666"/>
+ <node id="9281290789" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5166115" lon="5.8195057"/>
+ <node id="9281290790" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5178303" lon="5.8214866"/>
+ <node id="9281290791" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5170627" lon="5.8195031"/>
+ <node id="9281290792" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5175646" lon="5.8195312"/>
+ <node id="9281290793" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5176997" lon="5.8195272"/>
+ <node id="9281290794" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5178551" lon="5.8194910"/>
+ <node id="9281290795" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5179831" lon="5.8194722"/>
+ <node id="9281290796" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5180897" lon="5.8194736"/>
+ <node id="9281290797" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5181687" lon="5.8194843"/>
+ <node id="9281290798" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5188350" lon="5.8198799"/>
+ <node id="9281290799" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5183926" lon="5.8202903"/>
+ <node id="9281290800" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5178285" lon="5.8214289"/>
+ <node id="9281290801" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5166346" lon="5.8194441"/>
+ <node id="9281290802" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5179777" lon="5.8215067"/>
+ <node id="9281290803" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5181865" lon="5.8210869"/>
+ <node id="9281290804" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5185178" lon="5.8204418"/>
+ <node id="9281290805" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5186386" lon="5.8203185"/>
+ <node id="9281290806" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5188110" lon="5.8201602"/>
+ <node id="9281290807" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5190970" lon="5.8199456"/>
+ <node id="9281290808" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5193440" lon="5.8197927"/>
+ <node id="9281290809" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5195571" lon="5.8196667"/>
+ <node id="9281290810" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5198823" lon="5.8195031"/>
+ <node id="9281290811" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5208007" lon="5.8191007"/>
+ <node id="9281290812" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5210708" lon="5.8189854"/>
+ <node id="9281290813" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5214652" lon="5.8187842"/>
+ <node id="9281290814" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5220310" lon="5.8184677"/>
+ <node id="9281290815" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221358" lon="5.8194789"/>
+ <node id="9281290816" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5220497" lon="5.8195822"/>
+ <node id="9281290817" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5216704" lon="5.8197042"/>
+ <node id="9281290818" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5216037" lon="5.8199041"/>
+ <node id="9281290819" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5216188" lon="5.8201119"/>
+ <node id="9281290820" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5219173" lon="5.8201227"/>
+ <node id="9281290821" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5219777" lon="5.8203185"/>
+ <node id="9281290822" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5216713" lon="5.8219989"/>
+ <node id="9281290823" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5217192" lon="5.8220150"/>
+ <node id="9281290824" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5219253" lon="5.8208428"/>
+ <node id="9281290825" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221180" lon="5.8197445"/>
+ <node id="9281290826" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221447" lon="5.8196627"/>
+ <node id="9281290827" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221749" lon="5.8194990"/>
+ <node id="9281290828" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221722" lon="5.8194199"/>
+ <node id="9281290829" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5220781" lon="5.8184570"/>
+ <node id="9281290830" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5220887" lon="5.8183993"/>
+ <node id="9281290831" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5221243" lon="5.8183564"/>
+ <node id="9281290832" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5228198" lon="5.8179045"/>
+ <node id="9281290833" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5229281" lon="5.8178093"/>
+ <node id="9281290834" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5230445" lon="5.8176926"/>
+ <node id="9281290835" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5232452" lon="5.8174378"/>
+ <node id="9281290836" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5233838" lon="5.8172822"/>
+ <node id="9281290837" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5234540" lon="5.8172205"/>
+ <node id="9281290838" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5235828" lon="5.8171427"/>
+ <node id="9281290839" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5237133" lon="5.8170877"/>
+ <node id="9281290840" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5240011" lon="5.8170086"/>
+ <node id="9281290841" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5242063" lon="5.8169255"/>
+ <node id="9281290842" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5242862" lon="5.8168651"/>
+ <node id="9281290843" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5244212" lon="5.8167820"/>
+ <node id="9281290844" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5245234" lon="5.8166935"/>
+ <node id="9281290845" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5246575" lon="5.8165553"/>
+ <node id="9281290846" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5248600" lon="5.8163314"/>
+ <node id="9281290847" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249089" lon="5.8163340"/>
+ <node id="9281290848" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249311" lon="5.8173533"/>
+ <node id="9281290849" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249284" lon="5.8175571"/>
+ <node id="9281290850" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249080" lon="5.8177301"/>
+ <node id="9281290851" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5248947" lon="5.8177771"/>
+ <node id="9281290852" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247499" lon="5.8187775"/>
+ <node id="9281290853" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247499" lon="5.8188526"/>
+ <node id="9281290854" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5248760" lon="5.8197364"/>
+ <node id="9281290855" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5248973" lon="5.8199081"/>
+ <node id="9281290856" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249062" lon="5.8200502"/>
+ <node id="9281290857" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5249080" lon="5.8201776"/>
+ <node id="9281290858" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5248911" lon="5.8203533"/>
+ <node id="9281290859" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5246371" lon="5.8216985"/>
+ <node id="9281290860" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5243724" lon="5.8232018"/>
+ <node id="9281290861" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5243706" lon="5.8233212"/>
+ <node id="9281290862" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5243786" lon="5.8234406"/>
+ <node id="9281290863" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5244017" lon="5.8235398"/>
+ <node id="9281290864" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5244355" lon="5.8236632"/>
+ <node id="9281290865" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5245038" lon="5.8238161"/>
+ <node id="9281290866" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5246113" lon="5.8240306"/>
+ <node id="9281290867" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5246904" lon="5.8241875"/>
+ <node id="9281290868" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247401" lon="5.8243082"/>
+ <node id="9281290869" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247872" lon="5.8244531"/>
+ <node id="9281290870" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247961" lon="5.8245416"/>
+ <node id="9281290871" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247987" lon="5.8246529"/>
+ <node id="9281290872" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5247836" lon="5.8248018"/>
+ <node id="9281290873" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5243164" lon="5.8265291"/>
+ <node id="9281290874" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5242196" lon="5.8264862"/>
+ <node id="9281290875" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5244834" lon="5.8253798"/>
+ <node id="9281290876" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5194941" lon="5.8249962"/>
+ <node id="9281290877" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375" lat="48.5179564" lon="5.8215979"/>
+ <node id="11570808909" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5208834" lon="5.8106384"/>
+ <node id="11570808914" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5209269" lon="5.8114363"/>
+ <node id="11570808915" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5209988" lon="5.8111131"/>
+ <node id="11570808916" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5207652" lon="5.8118159"/>
+ <node id="11570808917" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5203086" lon="5.8119862"/>
+ <node id="11570808918" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5202322" lon="5.8120291"/>
+ <node id="11570808919" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5198148" lon="5.8103769"/>
+ <node id="11570808920" visible="true" version="1" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375" lat="48.5197588" lon="5.8104131"/>
+ <way id="128418063" visible="true" version="11" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375">
+  <nd ref="1419311906"/>
+  <nd ref="9265102696"/>
+  <nd ref="1419311800"/>
+  <nd ref="1419311775"/>
+  <nd ref="9265102697"/>
+  <nd ref="9265102698"/>
+  <nd ref="1419311981"/>
+  <nd ref="1419311796"/>
+  <nd ref="5796390446"/>
+  <nd ref="1419312388"/>
+  <nd ref="7089764189"/>
+  <nd ref="1419312203"/>
+  <nd ref="1419312194"/>
+  <nd ref="1419311958"/>
+  <nd ref="1419312112"/>
+  <nd ref="1419312036"/>
+  <nd ref="1419311876"/>
+  <nd ref="1419312273"/>
+  <nd ref="1419312383"/>
+  <nd ref="1419312391"/>
+  <nd ref="7089764191"/>
+  <nd ref="7089764190"/>
+  <nd ref="1419312141"/>
+  <nd ref="5796395883"/>
+  <nd ref="1419311757"/>
+  <nd ref="7089764192"/>
+  <nd ref="1419311759"/>
+  <nd ref="7089764193"/>
+  <nd ref="1419311873"/>
+  <nd ref="1419311857"/>
+  <nd ref="1419311954"/>
+  <nd ref="1419311806"/>
+  <nd ref="1419312175"/>
+  <nd ref="1419311874"/>
+  <nd ref="1419311992"/>
+  <nd ref="1419311859"/>
+  <nd ref="1419311755"/>
+  <nd ref="2164154677"/>
+  <nd ref="1419312407"/>
+  <nd ref="7089764194"/>
+  <nd ref="2164154674"/>
+  <nd ref="1419311782"/>
+  <nd ref="2164154673"/>
+  <nd ref="1419311936"/>
+  <nd ref="2164154672"/>
+  <nd ref="2164154670"/>
+  <nd ref="1419312305"/>
+  <nd ref="2164154669"/>
+  <nd ref="1419311894"/>
+  <nd ref="1419312091"/>
+  <nd ref="1419312111"/>
+  <nd ref="1419312438"/>
+  <nd ref="7064657894"/>
+  <nd ref="2164154658"/>
+  <nd ref="1419312138"/>
+  <nd ref="2164154655"/>
+  <nd ref="7064657895"/>
+  <nd ref="1419312173"/>
+  <nd ref="2164154653"/>
+  <nd ref="1419312428"/>
+  <nd ref="1419311979"/>
+  <nd ref="1419311778"/>
+  <nd ref="2457328778"/>
+  <nd ref="1419311881"/>
+  <nd ref="1419312143"/>
+  <nd ref="1419312145"/>
+  <nd ref="2457328774"/>
+  <nd ref="2457328763"/>
+  <nd ref="1419311779"/>
+  <nd ref="1419311901"/>
+  <nd ref="1419312282"/>
+  <nd ref="2164154652"/>
+  <nd ref="1419311938"/>
+  <nd ref="7064657896"/>
+  <nd ref="1419311741"/>
+  <nd ref="2164154650"/>
+  <nd ref="1419311964"/>
+  <nd ref="2164154646"/>
+  <nd ref="1419312114"/>
+  <nd ref="2164154634"/>
+  <nd ref="7064657897"/>
+  <nd ref="1419312275"/>
+  <nd ref="1419312296"/>
+  <nd ref="7064657898"/>
+  <nd ref="1419312302"/>
+  <nd ref="7064657899"/>
+  <nd ref="1419312258"/>
+  <nd ref="1419311913"/>
+  <nd ref="1419312212"/>
+  <nd ref="7064657900"/>
+  <nd ref="1419312409"/>
+  <nd ref="7064657901"/>
+  <nd ref="1419312219"/>
+  <nd ref="1419311910"/>
+  <nd ref="1419312086"/>
+  <nd ref="7064657893"/>
+  <nd ref="1419312284"/>
+  <nd ref="1419312096"/>
+  <nd ref="7064657912"/>
+  <nd ref="1419312412"/>
+  <nd ref="7064657911"/>
+  <nd ref="1419311899"/>
+  <nd ref="7064657910"/>
+  <nd ref="1419312113"/>
+  <nd ref="1419312046"/>
+  <nd ref="7064657909"/>
+  <nd ref="1419311888"/>
+  <nd ref="7064657908"/>
+  <nd ref="1419311908"/>
+  <nd ref="7064657907"/>
+  <nd ref="1419312209"/>
+  <nd ref="7064657906"/>
+  <nd ref="1419311980"/>
+  <nd ref="7064657905"/>
+  <nd ref="1419312109"/>
+  <nd ref="1419311983"/>
+  <nd ref="1419311854"/>
+  <nd ref="7064657904"/>
+  <nd ref="1419312303"/>
+  <nd ref="1419312024"/>
+  <nd ref="1419312300"/>
+  <nd ref="1419312026"/>
+  <nd ref="1419311927"/>
+  <nd ref="1419311903"/>
+  <nd ref="7064657903"/>
+  <nd ref="1419312344"/>
+  <nd ref="1419311752"/>
+  <nd ref="1419311966"/>
+  <nd ref="1419312316"/>
+  <nd ref="1419312108"/>
+  <nd ref="1419312405"/>
+  <nd ref="1419312238"/>
+  <nd ref="7064657902"/>
+  <nd ref="1419312418"/>
+  <nd ref="1419311776"/>
+  <nd ref="1419312023"/>
+  <nd ref="1419312236"/>
+  <nd ref="1419312110"/>
+  <nd ref="1419312355"/>
+  <nd ref="1419311882"/>
+  <nd ref="1419311932"/>
+  <nd ref="1419311855"/>
+  <nd ref="1419312241"/>
+  <nd ref="7200966221"/>
+  <nd ref="1419312454"/>
+  <nd ref="1419311885"/>
+  <nd ref="1419312128"/>
+  <nd ref="1419312346"/>
+  <nd ref="1419312298"/>
+  <nd ref="1419312054"/>
+  <nd ref="1419312444"/>
+  <nd ref="1419312340"/>
+  <nd ref="1419312434"/>
+  <nd ref="1419311978"/>
+  <nd ref="1419312098"/>
+  <nd ref="1419312169"/>
+  <nd ref="1419312094"/>
+  <nd ref="1419312404"/>
+  <nd ref="1419312083"/>
+  <nd ref="1419312027"/>
+  <nd ref="1419312319"/>
+  <nd ref="1419312239"/>
+  <nd ref="1419312398"/>
+  <nd ref="7200966222"/>
+  <nd ref="1419312441"/>
+  <nd ref="1419312152"/>
+  <nd ref="1419312314"/>
+  <nd ref="1419312188"/>
+  <nd ref="7200966223"/>
+  <nd ref="1419312155"/>
+  <nd ref="7200966224"/>
+  <nd ref="7200966225"/>
+  <nd ref="1419312417"/>
+  <nd ref="1419311955"/>
+  <nd ref="1419311956"/>
+  <nd ref="1419311877"/>
+  <nd ref="7200966220"/>
+  <nd ref="1419311872"/>
+  <nd ref="1419312348"/>
+  <nd ref="1419312306"/>
+  <nd ref="1991036987"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="612331845" visible="true" version="2" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375">
+  <nd ref="5796390446"/>
+  <nd ref="5796390447"/>
+  <nd ref="5796390448"/>
+  <nd ref="7089764157"/>
+  <nd ref="5796390449"/>
+  <nd ref="7089764158"/>
+  <nd ref="7089764160"/>
+  <nd ref="7089764159"/>
+  <nd ref="5796390451"/>
+  <nd ref="7089764162"/>
+  <nd ref="7089764161"/>
+  <nd ref="5796390452"/>
+  <nd ref="5796395853"/>
+  <nd ref="7089764163"/>
+  <nd ref="5796395854"/>
+  <nd ref="7089764164"/>
+  <nd ref="5796395855"/>
+  <nd ref="7089764165"/>
+  <nd ref="5796395856"/>
+  <nd ref="5796395857"/>
+  <nd ref="5796395858"/>
+  <nd ref="5796395859"/>
+  <nd ref="7089764169"/>
+  <nd ref="5796395860"/>
+  <nd ref="5796395861"/>
+  <nd ref="7089764167"/>
+  <nd ref="7089764166"/>
+  <nd ref="7089764168"/>
+  <nd ref="5796395862"/>
+  <nd ref="7089764171"/>
+  <nd ref="5796395863"/>
+  <nd ref="7089764172"/>
+  <nd ref="5796395864"/>
+  <nd ref="5796395865"/>
+  <nd ref="7089764173"/>
+  <nd ref="7089764174"/>
+  <nd ref="5796395866"/>
+  <nd ref="5796395867"/>
+  <nd ref="7089764175"/>
+  <nd ref="5796395868"/>
+  <nd ref="5796395869"/>
+  <nd ref="5796395870"/>
+  <nd ref="7089764176"/>
+  <nd ref="5796395871"/>
+  <nd ref="7089764178"/>
+  <nd ref="7089764177"/>
+  <nd ref="5796395872"/>
+  <nd ref="7089764179"/>
+  <nd ref="5796395873"/>
+  <nd ref="5796395874"/>
+  <nd ref="7089764180"/>
+  <nd ref="7089764181"/>
+  <nd ref="5796395875"/>
+  <nd ref="7089764182"/>
+  <nd ref="7089764183"/>
+  <nd ref="5796395876"/>
+  <nd ref="5796395877"/>
+  <nd ref="7089764184"/>
+  <nd ref="7089764185"/>
+  <nd ref="5796395878"/>
+  <nd ref="7089764186"/>
+  <nd ref="5796395879"/>
+  <nd ref="7089764187"/>
+  <nd ref="5796395880"/>
+  <nd ref="7089764188"/>
+  <nd ref="5796395881"/>
+  <nd ref="5796395882"/>
+  <nd ref="5796395883"/>
+  <tag k="highway" v="track"/>
+  <tag k="mtb:scale" v="0"/>
+  <tag k="smoothness" v="bad"/>
+  <tag k="source" v="survey;Ortho HR"/>
+  <tag k="tracktype" v="grade2"/>
+  <tag k="width" v="3"/>
+ </way>
+ <way id="759048258" visible="true" version="1" changeset="78942524" timestamp="2019-12-27T21:44:41Z" user="Rom1" uid="337375">
+  <nd ref="1419311806"/>
+  <nd ref="7089764203"/>
+  <nd ref="7089764202"/>
+  <nd ref="7089764201"/>
+  <nd ref="7089764200"/>
+  <nd ref="7089764199"/>
+  <nd ref="7089764198"/>
+  <nd ref="7089764197"/>
+  <nd ref="7089764196"/>
+  <nd ref="7089764195"/>
+  <nd ref="7089764194"/>
+  <tag k="highway" v="track"/>
+  <tag k="smoothness" v="horrible"/>
+  <tag k="source" v="survey;Ortho HR"/>
+  <tag k="tracktype" v="grade5"/>
+ </way>
+ <way id="1004147064" visible="true" version="2" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375">
+  <nd ref="9265102587"/>
+  <nd ref="915914379"/>
+  <nd ref="2164154667"/>
+  <nd ref="9281290788"/>
+  <nd ref="9281290787"/>
+  <nd ref="9281290789"/>
+  <nd ref="9281290790"/>
+  <nd ref="9265102603"/>
+  <nd ref="2164154660"/>
+  <nd ref="9265102589"/>
+  <nd ref="9265102587"/>
+  <tag k="landuse" v="meadow"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1004147065" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375">
+  <nd ref="2164154660"/>
+  <nd ref="9265102603"/>
+  <nd ref="9265102602"/>
+  <nd ref="9265102601"/>
+  <nd ref="9265102600"/>
+  <nd ref="9265102599"/>
+  <nd ref="9265102598"/>
+  <nd ref="9265102597"/>
+  <nd ref="9265102596"/>
+  <nd ref="9265102595"/>
+  <nd ref="9265102594"/>
+  <nd ref="9265102593"/>
+  <nd ref="9265102592"/>
+  <nd ref="9265102591"/>
+  <nd ref="9265102590"/>
+  <nd ref="9265102589"/>
+  <nd ref="2164154660"/>
+  <tag k="landuse" v="farmland"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1004147066" visible="true" version="1" changeset="113964805" timestamp="2021-11-18T21:46:46Z" user="Rom1" uid="337375">
+  <nd ref="2164154679"/>
+  <nd ref="9265102717"/>
+  <nd ref="915912017"/>
+  <nd ref="9265102719"/>
+  <nd ref="9265102718"/>
+  <nd ref="9265102619"/>
+  <nd ref="9265102618"/>
+  <nd ref="9265102617"/>
+  <nd ref="9265102616"/>
+  <nd ref="9265102615"/>
+  <nd ref="9265102614"/>
+  <nd ref="9265102613"/>
+  <nd ref="9265102612"/>
+  <nd ref="9265102611"/>
+  <nd ref="9265102610"/>
+  <nd ref="9265102609"/>
+  <nd ref="9265102608"/>
+  <nd ref="9265102607"/>
+  <nd ref="9265102606"/>
+  <nd ref="9265102605"/>
+  <nd ref="9265102604"/>
+  <nd ref="2164154679"/>
+  <tag k="landuse" v="farmland"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1004443390" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375">
+  <nd ref="9267648961"/>
+  <nd ref="9267648930"/>
+  <nd ref="9267648929"/>
+  <nd ref="9267648928"/>
+  <nd ref="9267648927"/>
+  <nd ref="11570808919"/>
+  <nd ref="11570808920"/>
+  <nd ref="9267648932"/>
+  <nd ref="9267648933"/>
+  <nd ref="11570808918"/>
+  <nd ref="11570808917"/>
+  <nd ref="9267648934"/>
+  <nd ref="11570808916"/>
+  <nd ref="11570808914"/>
+  <nd ref="11570808915"/>
+  <nd ref="11570808909"/>
+  <nd ref="9267648935"/>
+  <nd ref="9267648962"/>
+  <nd ref="9267648961"/>
+  <tag k="landuse" v="meadow"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1004443391" visible="true" version="2" changeset="146879692" timestamp="2024-01-30T21:03:55Z" user="Rom1" uid="337375">
+  <nd ref="9267648938"/>
+  <nd ref="9267648937"/>
+  <nd ref="9267648935"/>
+  <nd ref="11570808909"/>
+  <nd ref="11570808915"/>
+  <nd ref="11570808914"/>
+  <nd ref="11570808916"/>
+  <nd ref="9267648934"/>
+  <nd ref="11570808917"/>
+  <nd ref="11570808918"/>
+  <nd ref="9267648933"/>
+  <nd ref="9267648932"/>
+  <nd ref="11570808920"/>
+  <nd ref="11570808919"/>
+  <nd ref="9267648927"/>
+  <nd ref="9267648938"/>
+  <tag k="landuse" v="farmyard"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1004443392" visible="true" version="1" changeset="114001826" timestamp="2021-11-19T17:58:17Z" user="Rom1" uid="337375">
+  <nd ref="9267648962"/>
+  <nd ref="9267648961"/>
+  <nd ref="9267648960"/>
+  <nd ref="9267648959"/>
+  <nd ref="9267648958"/>
+  <nd ref="9267648957"/>
+  <nd ref="9267648956"/>
+  <nd ref="9267648955"/>
+  <nd ref="9267648954"/>
+  <nd ref="9267648953"/>
+  <nd ref="9267648952"/>
+  <nd ref="9267648951"/>
+  <nd ref="9267648950"/>
+  <nd ref="9267648949"/>
+  <nd ref="9267648948"/>
+  <nd ref="9267648947"/>
+  <nd ref="9267648946"/>
+  <nd ref="9267648945"/>
+  <nd ref="9267648944"/>
+  <nd ref="9267648943"/>
+  <nd ref="9267648942"/>
+  <nd ref="9267648941"/>
+  <nd ref="9267648940"/>
+  <nd ref="9267648939"/>
+  <nd ref="9267648962"/>
+  <tag k="landuse" v="farmland"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1005944127" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375">
+  <nd ref="9281290801"/>
+  <nd ref="9281290800"/>
+  <nd ref="9281290799"/>
+  <nd ref="9281290798"/>
+  <nd ref="9281290797"/>
+  <nd ref="9281290796"/>
+  <nd ref="9281290795"/>
+  <nd ref="9281290794"/>
+  <nd ref="9281290793"/>
+  <nd ref="9281290792"/>
+  <nd ref="9281290791"/>
+  <nd ref="9281290801"/>
+  <tag k="landuse" v="meadow"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+ <way id="1005944128" visible="true" version="1" changeset="114193944" timestamp="2021-11-24T19:03:19Z" user="Rom1" uid="337375">
+  <nd ref="9281290877"/>
+  <nd ref="9281290876"/>
+  <nd ref="9281290875"/>
+  <nd ref="9281290874"/>
+  <nd ref="9281290873"/>
+  <nd ref="9281290872"/>
+  <nd ref="9281290871"/>
+  <nd ref="9281290870"/>
+  <nd ref="9281290869"/>
+  <nd ref="9281290868"/>
+  <nd ref="9281290867"/>
+  <nd ref="9281290866"/>
+  <nd ref="9281290865"/>
+  <nd ref="9281290864"/>
+  <nd ref="9281290863"/>
+  <nd ref="9281290862"/>
+  <nd ref="9281290861"/>
+  <nd ref="9281290860"/>
+  <nd ref="9281290859"/>
+  <nd ref="9281290858"/>
+  <nd ref="9281290857"/>
+  <nd ref="9281290856"/>
+  <nd ref="9281290855"/>
+  <nd ref="9281290854"/>
+  <nd ref="9281290853"/>
+  <nd ref="9281290852"/>
+  <nd ref="9281290851"/>
+  <nd ref="9281290850"/>
+  <nd ref="9281290849"/>
+  <nd ref="9281290848"/>
+  <nd ref="9281290847"/>
+  <nd ref="9281290846"/>
+  <nd ref="9281290845"/>
+  <nd ref="9281290844"/>
+  <nd ref="9281290843"/>
+  <nd ref="9281290842"/>
+  <nd ref="9281290841"/>
+  <nd ref="9281290840"/>
+  <nd ref="9281290839"/>
+  <nd ref="9281290838"/>
+  <nd ref="9281290837"/>
+  <nd ref="9281290836"/>
+  <nd ref="9281290835"/>
+  <nd ref="9281290834"/>
+  <nd ref="9281290833"/>
+  <nd ref="9281290832"/>
+  <nd ref="9281290831"/>
+  <nd ref="9281290830"/>
+  <nd ref="9281290829"/>
+  <nd ref="9281290828"/>
+  <nd ref="9281290827"/>
+  <nd ref="9281290826"/>
+  <nd ref="9281290825"/>
+  <nd ref="9281290824"/>
+  <nd ref="9281290823"/>
+  <nd ref="9281290822"/>
+  <nd ref="9281290821"/>
+  <nd ref="9281290820"/>
+  <nd ref="9281290819"/>
+  <nd ref="9281290818"/>
+  <nd ref="9281290817"/>
+  <nd ref="9281290816"/>
+  <nd ref="9281290815"/>
+  <nd ref="9281290814"/>
+  <nd ref="9281290813"/>
+  <nd ref="9281290812"/>
+  <nd ref="9281290811"/>
+  <nd ref="9281290810"/>
+  <nd ref="9281290809"/>
+  <nd ref="9281290808"/>
+  <nd ref="9281290807"/>
+  <nd ref="9281290806"/>
+  <nd ref="9281290805"/>
+  <nd ref="9281290804"/>
+  <nd ref="9281290803"/>
+  <nd ref="9281290802"/>
+  <nd ref="9281290877"/>
+  <tag k="landuse" v="meadow"/>
+  <tag k="source" v="Ortho HR"/>
+ </way>
+</osm>
