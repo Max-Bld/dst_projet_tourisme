@@ -18,7 +18,7 @@ from compute import distances_euclidiennes
 latitude_user, longitude_user, perimetre_user = generate_user_geo()
 
 se_geolocaliser(latitude_user, longitude_user)
-choisir_perimetre(perimetre_user)
+perimetre_user = choisir_perimetre(perimetre_user)
 query_element = choisir_preferences()
 
 queried_data = sparql_query(query_element, data)

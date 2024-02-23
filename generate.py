@@ -15,6 +15,6 @@ def generate_user_geo():
     
     latitude_user = random.uniform(47.9,49.5)
     longitude_user = random.uniform(5.0,5.8)
-    perimetre_user = random.uniform(20000,45000)
+    perimetre_user = random.uniform(15000,25000)
     
     return latitude_user, longitude_user, perimetre_user

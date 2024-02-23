@@ -14,7 +14,7 @@ la requête SPARQL.
 
 from sys import exit
 from time import sleep
-from display_test import visualize_data
+from displayv1 import visualize_data
 import webbrowser
 
 def se_geolocaliser(latitude_user, longitude_user):
@@ -68,6 +68,7 @@ def choisir_perimetre(perimetre_user):
         
         print("Mauvaise entrée.")
         exit()
+    return perimetre_user
     
 def choisir_preferences():
         

@@ -1,0 +1,2905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1755559 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="49.4895385" minlon="5.2514648" maxlat="49.4966745" maxlon="5.2624512"/>
+ <node id="652851573" visible="true" version="1" changeset="3967372" timestamp="2010-02-24T22:10:40Z" user="foxandpotatoes" uid="117689" lat="49.4971782" lon="5.2535488"/>
+ <node id="735085280" visible="true" version="1" changeset="4706339" timestamp="2010-05-15T13:50:36Z" user="Gustry" uid="86289" lat="49.4954368" lon="5.2641370"/>
+ <node id="963918190" visible="true" version="4" changeset="135211859" timestamp="2023-04-21T22:55:20Z" user="InfosReseaux" uid="93222" lat="49.8183364" lon="4.5575816">
+  <tag k="line_attachment" v="suspension"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="963918738" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.8105527" lon="4.5495038">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="963918770" visible="true" version="4" changeset="135211859" timestamp="2023-04-21T22:55:20Z" user="InfosReseaux" uid="93222" lat="49.8147217" lon="4.5500448">
+  <tag k="line_attachment" v="anchor"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="963918783" visible="true" version="4" changeset="135211859" timestamp="2023-04-21T22:55:20Z" user="InfosReseaux" uid="93222" lat="49.8207260" lon="4.5626463">
+  <tag k="line_attachment" v="anchor"/>
+  <tag k="line_management" v="split"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363466" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.7946432" lon="4.5585076">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363471" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7651778" lon="4.5867472">
+  <tag k="height" v="38"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="18"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="965363474" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7526837" lon="4.6319429">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363482" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7599037" lon="4.5990580">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+ </node>
+ <node id="965363484" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.8011933" lon="4.5525490">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363485" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7710167" lon="4.5802139">
+  <tag k="height" v="32"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="16"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="965363486" visible="true" version="4" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7545975" lon="4.6229462">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363488" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7617975" lon="4.5905275">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363489" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7802783" lon="4.5713260">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363498" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7571837" lon="4.6115177">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363501" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7681889" lon="4.5833722">
+  <tag k="height" v="32"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="17"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="965363504" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.7902672" lon="4.5624056">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363506" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7776510" lon="4.5737139">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363508" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7514650" lon="4.6374791">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363510" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7981500" lon="4.5553167">
+  <tag k="height" v="43"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="8"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="965363514" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7866593" lon="4.5656018">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363516" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7534066" lon="4.6286590">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965363519" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.8054680" lon="4.5487702">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965363521" visible="true" version="3" changeset="39663293" timestamp="2016-05-30T11:39:43Z" user="Kalaallit Nunaat" uid="400383" lat="49.7561011" lon="4.6164732">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="965384460" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7246533" lon="4.6936975">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384476" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7167667" lon="4.7246704">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384478" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7303069" lon="4.6823284">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384483" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7395352" lon="4.6634336">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384486" visible="true" version="4" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7342035" lon="4.6745184">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384487" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.7422183" lon="4.6575967">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384490" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7182810" lon="4.7119163">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384492" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7162117" lon="4.7296376">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384494" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7284371" lon="4.6861242">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384499" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7475847" lon="4.6459218">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384501" visible="true" version="4" changeset="147684176" timestamp="2024-02-20T09:46:01Z" user="eultra" uid="4020938" lat="49.7220929" lon="4.7002644">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="structure" v="lattice"/>
+ </node>
+ <node id="965384505" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7175485" lon="4.7180857">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384514" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7371875" lon="4.6685405">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384516" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7271473" lon="4.6887156">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384518" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7496437" lon="4.6414418">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384521" visible="true" version="4" changeset="147684176" timestamp="2024-02-20T09:46:01Z" user="eultra" uid="4020938" lat="49.7201019" lon="4.7055607">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="structure" v="lattice"/>
+ </node>
+ <node id="965384523" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7360173" lon="4.6708922">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384531" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7155443" lon="4.7356121">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="965384533" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7451662" lon="4.6511835">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137952" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4268762" lon="5.4532355">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137953" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4781425" lon="5.2935755">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137954" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4638599" lon="5.7121737">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137957" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4092113" lon="5.5076158">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137960" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:27Z" user="InfosReseaux" uid="93222" lat="49.4468052" lon="5.3660303">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137968" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6233336" lon="4.8766421">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137970" visible="true" version="2" changeset="48363577" timestamp="2017-05-03T11:52:49Z" user="Kalaallit Nunaat" uid="400383" lat="49.4917473" lon="5.2597454">
+  <tag k="height" v="21"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="97"/>
+  <tag k="source" v="bing;data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966137972" visible="true" version="3" changeset="145738955" timestamp="2023-12-31T16:03:32Z" user="Jean-Baptiste CHARRON" uid="8241440" lat="49.5004311" lon="5.1981568">
+  <tag k="height" v="32"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="108"/>
+  <tag k="source" v="data.gouv.fr:RTE - 2023-12"/>
+ </node>
+ <node id="966137976" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4233621" lon="5.4687272">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137978" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:28Z" user="InfosReseaux" uid="93222" lat="49.5300300" lon="5.0527320">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137982" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4306805" lon="5.4111577">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137989" visible="true" version="4" changeset="125786470" timestamp="2022-09-04T19:44:52Z" user="user_5589" uid="5589" lat="49.4137033" lon="5.4921136">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137992" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4992671" lon="5.2120511">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966137998" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4482351" lon="5.3609747">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138001" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:28Z" user="InfosReseaux" uid="93222" lat="49.5185443" lon="5.0896974">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138003" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6340997" lon="4.8436467">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138006" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:28Z" user="InfosReseaux" uid="93222" lat="49.5365181" lon="5.0400883">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138010" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4360120" lon="5.3887687">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138011" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4434511" lon="5.6760701">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138013" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:28Z" user="InfosReseaux" uid="93222" lat="49.5020890" lon="5.1733114">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138015" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5645798" lon="4.9889728">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138019" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4634516" lon="5.3236892">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138021" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4844619" lon="5.7869951">
+  <tag k="line_attachment" v="anchor"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="966138028" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6538265" lon="4.8237228">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138030" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4510541" lon="5.6849491">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138039" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6911273" lon="4.7647243">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138041" visible="true" version="4" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4077433" lon="5.6289640">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138047" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5749000" lon="4.9708876">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138049" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4265030" lon="5.4627936">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138051" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4720118" lon="5.3041761">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138053" visible="true" version="3" changeset="125776112" timestamp="2022-09-04T14:57:28Z" user="user_5589" uid="5589" lat="49.4770420" lon="5.7609180">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138059" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.6131108" lon="4.9059357">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138066" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4877721" lon="5.2734030">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138067" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4040803" lon="5.5790210">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138068" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4274204" lon="5.4471438">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138069" visible="true" version="3" changeset="48027095" timestamp="2017-04-22T09:17:43Z" user="aytfadc" uid="58255" lat="49.4852170" lon="5.2835716">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138070" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4665281" lon="5.7226920">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138073" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4080022" lon="5.5118025">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138075" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4966540" lon="5.2382942">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138082" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4487034" lon="5.3613223">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138083" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4041382" lon="5.6124910">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138086" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.5120597" lon="5.1150945">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138088" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6204794" lon="4.8871162">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138091" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4902230" lon="5.2637593">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138093" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.5006832" lon="5.1901258">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138102" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4299686" lon="5.4191254">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138104" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:29Z" user="InfosReseaux" uid="93222" lat="49.4994746" lon="5.2045121">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138105" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5849335" lon="4.9533347">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138107" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4583319" lon="5.3362533">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138112" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4041952" lon="5.5845922">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138116" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.5200229" lon="5.0827668">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138117" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6427610" lon="4.8312235">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138119" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.5381792" lon="5.0368510">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138121" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6814877" lon="4.7836465">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138123" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4443147" lon="5.3700609">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138124" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4339251" lon="5.6637541">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138133" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.4651149" lon="5.3211234">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138135" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4803727" lon="5.7700613">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138136" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6620720" lon="4.8135930">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138139" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5939785" lon="4.9389329">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138140" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.5437280" lon="5.0260360">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138141" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6941329" lon="4.7518426">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138152" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.5013579" lon="5.1819647">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138154" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5775786" lon="4.9661875">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138156" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4268763" lon="5.4585642">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138157" visible="true" version="2" changeset="48363577" timestamp="2017-05-03T11:52:49Z" user="Kalaallit Nunaat" uid="400383" lat="49.4738351" lon="5.3001616">
+  <tag k="height" v="27"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="88"/>
+  <tag k="source" v="bing;data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138158" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4723914" lon="5.7453254">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138159" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:30Z" user="InfosReseaux" uid="93222" lat="49.5083185" lon="5.1291475">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138164" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6251640" lon="4.8699247">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138166" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.4934460" lon="5.2509974">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138168" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4120353" lon="5.4995527">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138170" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.5553802" lon="5.0051053">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138172" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4037265" lon="5.5647971">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138173" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4282413" lon="5.4437429">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138178" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4622933" lon="5.7061550">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138181" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4114212" lon="5.5000054">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138183" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4975136" lon="5.2332127">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138186" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.4521394" lon="5.3527999">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138188" visible="true" version="4" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4041113" lon="5.6241420">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138193" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6175820" lon="4.8977482">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138197" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.4894083" lon="5.2669850">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138201" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4320539" lon="5.3962342">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138203" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4466283" lon="5.6799056">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138209" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.4602139" lon="5.3330384">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138211" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:31Z" user="InfosReseaux" uid="93222" lat="49.5225500" lon="5.0715516">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138213" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6449190" lon="4.8281524">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138215" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4555261" lon="5.6900457">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138222" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6892632" lon="4.7727128">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138225" visible="true" version="3" changeset="49435632" timestamp="2017-06-11T07:18:17Z" user="aytfadc" uid="58255" lat="49.4416114" lon="5.3769164">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138227" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4252706" lon="5.6522340">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138232" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4716237" lon="5.3037138">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138234" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4793672" lon="5.7673011">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138236" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6643754" lon="4.8094709">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138245" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6000642" lon="4.9297954">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138246" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:13Z" user="InfosReseaux" uid="93222" lat="49.4865673" lon="5.2803581">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138249" visible="true" version="4" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.7115057" lon="4.7386514">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138250" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4273674" lon="5.4533151">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138252" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4829967" lon="5.2858980">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138254" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4681855" lon="5.7291254">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138261" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4026074" lon="5.5304462">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138262" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4970769" lon="5.2385136">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138263" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4412260" lon="5.3764779">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138265" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6218732" lon="4.8820015">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138266" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4928986" lon="5.2551635">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138278" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4148741" lon="5.4880730">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138280" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4034220" lon="5.5484737">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138281" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:32Z" user="InfosReseaux" uid="93222" lat="49.5241734" lon="5.0641434">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138283" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4293012" lon="5.4318141">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138284" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4135572" lon="5.4943060">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138286" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:32Z" user="InfosReseaux" uid="93222" lat="49.4970662" lon="5.2331081">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138292" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5793683" lon="4.9630340">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138294" visible="true" version="3" changeset="38870875" timestamp="2016-04-25T22:31:32Z" user="InfosReseaux" uid="93222" lat="49.4540868" lon="5.3481829">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="Pylone 159"/>
+ </node>
+ <node id="966138298" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:32Z" user="InfosReseaux" uid="93222" lat="49.5165745" lon="5.0975214">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138300" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6284813" lon="4.8577862">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138304" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4324977" lon="5.3964956">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138310" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4381408" lon="5.6693438">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138314" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5612419" lon="4.9948572">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138316" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4616593" lon="5.3280436">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138319" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:33Z" user="InfosReseaux" uid="93222" lat="49.5214211" lon="5.0767027">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138321" visible="true" version="4" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6561028" lon="4.8213111">
+  <tag k="height" v="37"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="66"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138325" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:33Z" user="InfosReseaux" uid="93222" lat="49.5039083" lon="5.1515372">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138331" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6928636" lon="4.7572828">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138333" visible="true" version="4" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4181612" lon="5.6428047">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138337" visible="true" version="3" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4742197" lon="5.3006941">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138342" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4749069" lon="5.7549451">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138343" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4030286" lon="5.5307723">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138347" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6723483" lon="4.7964959">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138353" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6062226" lon="4.9185332">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138357" visible="true" version="3" changeset="48027116" timestamp="2017-04-22T09:18:25Z" user="aytfadc" uid="58255" lat="49.4953804" lon="5.2432721">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138362" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:33Z" user="InfosReseaux" uid="93222" lat="49.5504250" lon="5.0137025">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138364" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4039004" lon="5.5707215">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138366" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4279075" lon="5.4473195">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138369" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.4806513" lon="5.2906728">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138371" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4712125" lon="5.7406978">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138373" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4102136" lon="5.5041697">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138375" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4981809" lon="5.2251129">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138378" visible="true" version="2" changeset="48363577" timestamp="2017-05-03T11:52:49Z" user="Kalaallit Nunaat" uid="400383" lat="49.4463758" lon="5.3655562">
+  <tag k="height" v="26"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="75"/>
+  <tag k="source" v="bing;data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138380" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.5102816" lon="5.1218378">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138382" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6187354" lon="4.8935161">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138385" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.4913117" lon="5.2594485">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138388" visible="true" version="3" changeset="145738955" timestamp="2023-12-31T16:03:32Z" user="Jean-Baptiste CHARRON" uid="8241440" lat="49.5000451" lon="5.1978430">
+  <tag k="height" v="54"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="131"/>
+  <tag k="source" v="data.gouv.fr:RTE - 2023-12"/>
+ </node>
+ <node id="966138390" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4169650" lon="5.4842407">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138396" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4031482" lon="5.5366018">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138399" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4318966" lon="5.4031784">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138402" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4998705" lon="5.2048491">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138404" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5885284" lon="4.9470835">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138407" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.4584424" lon="5.3375270">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138413" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4041864" lon="5.5908838">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138415" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.5137525" lon="5.1086749">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138417" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6312481" lon="4.8477075">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138419" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:34Z" user="InfosReseaux" uid="93222" lat="49.5413675" lon="5.0306369">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138422" visible="true" version="3" changeset="48363577" timestamp="2017-05-03T11:52:50Z" user="Kalaallit Nunaat" uid="400383" lat="49.4446380" lon="5.3704948">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="1165"/>
+  <tag k="source" v="bing;data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138424" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4298414" lon="5.6582772">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138433" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4675041" lon="5.3137468">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138435" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6599683" lon="4.8173577">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138437" visible="true" version="3" changeset="145738955" timestamp="2023-12-31T16:03:32Z" user="Jean-Baptiste CHARRON" uid="8241440" lat="49.5027608" lon="5.1653585">
+  <tag k="height" v="51"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="127"/>
+  <tag k="source" v="data.gouv.fr:RTE - 2023-12"/>
+ </node>
+ <node id="966138439" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5967338" lon="4.9348082">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138444" visible="true" version="4" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6979562" lon="4.7488887">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138446" visible="true" version="4" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4110583" lon="5.6333671">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138452" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4210776" lon="5.4753062">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138457" visible="true" version="3" changeset="48027095" timestamp="2017-04-22T09:17:43Z" user="aytfadc" uid="58255" lat="49.4833405" lon="5.2864936">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138460" visible="true" version="5" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4737438" lon="5.7504532">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138461" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4046896" lon="5.5250673">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138462" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:35Z" user="InfosReseaux" uid="93222" lat="49.5066053" lon="5.1356229">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138464" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6106753" lon="4.9103191">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138466" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4938709" lon="5.2512892">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138479" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4152254" lon="5.4885770">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138480" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:35Z" user="InfosReseaux" uid="93222" lat="49.5583731" lon="4.9999484">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138483" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4033076" lon="5.5434620">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138485" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4276971" lon="5.4440468">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138493" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:35Z" user="InfosReseaux" uid="93222" lat="49.4785046" lon="5.2940282">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138494" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4652877" lon="5.7177470">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138495" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4103637" lon="5.5054021">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138496" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:35Z" user="InfosReseaux" uid="93222" lat="49.4977148" lon="5.2252315">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138498" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4509389" lon="5.3542493">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138499" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4041496" lon="5.6051675">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138512" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6297783" lon="4.8530615">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138513" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4906562" lon="5.2640988">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138514" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4234201" lon="5.4699039">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138518" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4311851" lon="5.4110876">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138520" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4986569" lon="5.2193353">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138531" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4599085" lon="5.3322844">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138533" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6371497" lon="4.8392575">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138540" visible="true" version="4" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6793750" lon="4.7864139">
+  <tag k="height" v="44"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="59"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138549" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4386316" lon="5.3820097">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138550" visible="true" version="4" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4151765" lon="5.6388322">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138552" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5680153" lon="4.9829800">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138553" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:36Z" user="InfosReseaux" uid="93222" lat="49.4638919" lon="5.3240860">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138554" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4842819" lon="5.7807939">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="966138556" visible="true" version="3" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6684680" lon="4.8021462">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138557" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:36Z" user="InfosReseaux" uid="93222" lat="49.5033447" lon="5.1582458">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138568" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6032502" lon="4.9240387">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138570" visible="true" version="4" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.7020301" lon="4.7458119">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138571" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4041643" lon="5.5982210">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138572" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4260333" lon="5.4626556">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138574" visible="true" version="2" changeset="48363577" timestamp="2017-05-03T11:52:49Z" user="Kalaallit Nunaat" uid="400383" lat="49.4801800" lon="5.2902929">
+  <tag k="height" v="21"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="90"/>
+  <tag k="source" v="bing;data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138575" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4698904" lon="5.7355817">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138589" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4068235" lon="5.5176258">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138591" visible="true" version="3" changeset="129816007" timestamp="2022-12-07T10:39:14Z" user="user_5589" uid="5589" lat="49.4390072" lon="5.3824413">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138595" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6151399" lon="4.9022465">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138597" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.4924562" lon="5.2549167">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138600" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4187760" lon="5.4800513">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138604" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4036415" lon="5.5588591">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138613" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.5272449" lon="5.0581589">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138614" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4313991" lon="5.4031351">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138615" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4606402" lon="5.6998389">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138616" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4086325" lon="5.5114811">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138617" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.4981869" lon="5.2194988">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138619" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.4503045" lon="5.3573512">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138627" visible="true" version="3" changeset="125787202" timestamp="2022-09-04T20:10:34Z" user="user_5589" uid="5589" lat="49.4041241" lon="5.6188500">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138629" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6271622" lon="4.8625912">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138630" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:44:14Z" user="InfosReseaux" uid="93222" lat="49.4898515" lon="5.2673051">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138633" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.5333353" lon="5.0462909">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138634" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4304481" lon="5.4192807">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138646" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.4988243" lon="5.2121135">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138649" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:37Z" user="InfosReseaux" uid="93222" lat="49.4621166" lon="5.3284131">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138651" visible="true" version="4" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4592036" lon="5.6941940">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138654" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.6853819" lon="4.7781709">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138661" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4217881" lon="5.6476297">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138663" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5712138" lon="4.9773370">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138666" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4213618" lon="5.4732677">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138667" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:38Z" user="InfosReseaux" uid="93222" lat="49.4682783" lon="5.3132704">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138668" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4825319" lon="5.7759892">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138669" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4001703" lon="5.5388836">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138673" visible="true" version="4" changeset="130662449" timestamp="2022-12-29T20:45:41Z" user="user_5589" uid="5589" lat="49.6756500" lon="4.7915528">
+  <tag k="height" v="47"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="60"/>
+  <tag k="source" v="data.gouv.fr:RTE - 04/2017"/>
+ </node>
+ <node id="966138675" visible="true" version="2" changeset="38870875" timestamp="2016-04-25T22:31:38Z" user="InfosReseaux" uid="93222" lat="49.5045933" lon="5.1433832">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138677" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.6081288" lon="4.9150988">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138681" visible="true" version="3" changeset="48027095" timestamp="2017-04-22T09:17:43Z" user="aytfadc" uid="58255" lat="49.4861704" lon="5.2798098">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="966138683" visible="true" version="3" changeset="38870875" timestamp="2016-04-25T22:31:38Z" user="InfosReseaux" uid="93222" lat="49.5463907" lon="5.0206660">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1401130606" visible="true" version="3" changeset="64094657" timestamp="2018-11-01T21:44:17Z" user="InfosReseaux" uid="93222" lat="49.4647068" lon="5.3206260">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853089" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3523846" lon="5.7031254">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853090" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3554815" lon="5.6925430">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853092" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3593153" lon="5.6794098">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853094" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3672008" lon="5.6523168">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853099" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3708423" lon="5.6400937">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853101" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3741908" lon="5.6285436">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853102" visible="true" version="5" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3772451" lon="5.6178748">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853103" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3785033" lon="5.6135376">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853104" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3802065" lon="5.6078130">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853105" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3857422" lon="5.5885691">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853110" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3914613" lon="5.5688349">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853111" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3936197" lon="5.5614386">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853113" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3962648" lon="5.5525182">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1477853116" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3990877" lon="5.5425738">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891754" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3086099" lon="5.7744726">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891789" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3109739" lon="5.7723876">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891827" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3171785" lon="5.7656960">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891829" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3225189" lon="5.7563013">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891830" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3259060" lon="5.7502583">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891831" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3300981" lon="5.7427934">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891832" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3343891" lon="5.7352777">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891841" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3374555" lon="5.7297425">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891843" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3403894" lon="5.7246813">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891846" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3437421" lon="5.7187737">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891849" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3469844" lon="5.7131200">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="1949891852" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3499177" lon="5.7079403">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2000110351" visible="true" version="3" changeset="130663843" timestamp="2022-12-29T21:27:45Z" user="user_5589" uid="5589" lat="49.7064821" lon="4.7424550">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2193272947" visible="true" version="6" changeset="114334907" timestamp="2021-11-28T19:23:00Z" user="bagage" uid="2797881" lat="49.5008463" lon="5.1939898">
+  <tag k="line_management" v="branch"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="2339696735" visible="true" version="2" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4887807" lon="5.2494168"/>
+ <node id="2339696744" visible="true" version="2" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4888615" lon="5.2471581"/>
+ <node id="3168331180" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3616769" lon="5.6712751">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3168331238" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3635242" lon="5.6649575">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3168331281" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3651120" lon="5.6594682">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3606632362" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4555237" lon="5.3821654">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632363" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4557697" lon="5.3798731">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632364" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4552304" lon="5.3847416">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632365" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4549939" lon="5.3868448">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632366" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4547101" lon="5.3892973">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632367" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4544725" lon="5.3915866">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606632368" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4543084" lon="5.3929459">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+  <tag k="switch" v="mechanical"/>
+ </node>
+ <node id="3606640610" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4573926" lon="5.3654768">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640611" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4571114" lon="5.3678953">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640612" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4568475" lon="5.3702697">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640613" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4566295" lon="5.3722468">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640614" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4562910" lon="5.3751596">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640615" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4560500" lon="5.3774546">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640616" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4589646" lon="5.3513365">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640617" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4587294" lon="5.3534107">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640618" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4584540" lon="5.3558646">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640619" visible="true" version="2" changeset="96868881" timestamp="2021-01-04T00:29:52Z" user="InfosReseaux" uid="93222" lat="49.4581786" lon="5.3582477">
+  <tag k="operator" v="Enedis"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3606640620" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4579319" lon="5.3605692">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640621" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4576393" lon="5.3630583">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640622" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4600145" lon="5.3417772">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640623" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4602842" lon="5.3394117">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640624" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4604907" lon="5.3375228">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640625" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4597678" lon="5.3440898">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640626" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4592228" lon="5.3488650">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640627" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4606800" lon="5.3358545">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640628" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4617242" lon="5.3265247">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640629" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4614947" lon="5.3287402">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640630" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4611734" lon="5.3315648">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640631" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4609597" lon="5.3333390">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640632" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4619709" lon="5.3241151">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640633" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4626650" lon="5.3179364">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640634" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4627740" lon="5.3171067">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640635" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4624986" lon="5.3194458">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640636" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4622520" lon="5.3216436">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640637" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4655620" lon="5.3125963">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640638" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4666462" lon="5.3108662">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640639" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4677361" lon="5.3091274">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640640" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4709655" lon="5.3039020">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640641" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4699675" lon="5.3055349">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640642" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4688661" lon="5.3072915">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640643" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4731336" lon="5.3004420">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640644" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4720840" lon="5.3021102">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640645" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4761390" lon="5.2955873">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640646" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4742348" lon="5.2986060">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640647" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4750091" lon="5.2974144">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640648" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4772229" lon="5.2939279">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640649" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4781749" lon="5.2923303">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640650" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4789205" lon="5.2901854">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640651" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4827341" lon="5.2792227">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640652" visible="true" version="2" changeset="96868881" timestamp="2021-01-04T00:29:52Z" user="InfosReseaux" uid="93222" lat="49.4819714" lon="5.2814382">
+  <tag k="operator" v="Enedis"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3606640653" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4812259" lon="5.2836095">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640654" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4804689" lon="5.2857985">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640655" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4797004" lon="5.2879876">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640656" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4865416" lon="5.2682511">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640657" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4857904" lon="5.2704490">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640658" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4850335" lon="5.2726115">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640659" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4842594" lon="5.2748535">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640660" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4835082" lon="5.2770160">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640661" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4873214" lon="5.2661151">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640662" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4888237" lon="5.2617459">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640663" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4880913" lon="5.2638539">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640664" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4903374" lon="5.2572973">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640665" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4895748" lon="5.2594951">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640666" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4911057" lon="5.2551083">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640667" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4924358" lon="5.2512775">
+  <tag k="material" v="steel"/>
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640668" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4916618" lon="5.2534753">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640669" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4931754" lon="5.2491856">
+  <tag k="material" v="steel"/>
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640670" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4938921" lon="5.2470407">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640671" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4946661" lon="5.2448605">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640672" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4959521" lon="5.2440577">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640673" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4964089" lon="5.2421860">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640674" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4973433" lon="5.2385583">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640675" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4982147" lon="5.2345774">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640676" visible="true" version="2" changeset="96868881" timestamp="2021-01-04T00:29:52Z" user="InfosReseaux" uid="93222" lat="49.4974924" lon="5.2366164">
+  <tag k="operator" v="Enedis"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3606640684" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5011096" lon="5.2263157">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640685" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5032993" lon="5.2198722">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640686" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5025541" lon="5.2220877">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3606640687" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5040101" lon="5.2179127">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163710" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5063965" lon="5.2117025">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163715" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5093297" lon="5.2056739">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163716" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5083554" lon="5.2076602">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163717" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5074087" lon="5.2096820">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163718" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5054925" lon="5.2137775">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163720" visible="true" version="4" changeset="130666698" timestamp="2022-12-29T23:44:30Z" user="user_5589" uid="5589" lat="49.5100547" lon="5.2013859">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3610163722" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.5101722" lon="5.2037312">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208251" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4537716" lon="5.3940433">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208252" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4540051" lon="5.3933972">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208253" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4535070" lon="5.3948770">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208254" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4540977" lon="5.3963751">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208257" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4546671" lon="5.3977690">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618208258" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4544533" lon="5.3984106">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618225685" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4538264" lon="5.4003456">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618225686" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4542435" lon="5.3990527">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618225687" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4533268" lon="5.4001437">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+  <tag k="switch" v="mechanical"/>
+ </node>
+ <node id="3618225688" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4526747" lon="5.3999320">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+ </node>
+ <node id="3618225689" visible="true" version="5" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4525625" lon="5.3982939">
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="pole"/>
+  <tag k="transformer" v="distribution"/>
+  <tag k="voltage:primary" v="20000"/>
+  <tag k="voltage:secondary" v="400"/>
+ </node>
+ <node id="3725204851" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3137293" lon="5.7694161">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3725204852" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3189466" lon="5.7627057">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="3965008482" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:22Z" user="InfosReseaux" uid="93222" lat="49.3079873" lon="5.7751600">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="insulator"/>
+ </node>
+ <node id="4215263779" visible="true" version="1" changeset="39663293" timestamp="2016-05-30T11:39:38Z" user="Kalaallit Nunaat" uid="400383" lat="49.7578967" lon="4.6083520">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="4215263780" visible="true" version="1" changeset="39663293" timestamp="2016-05-30T11:39:38Z" user="Kalaallit Nunaat" uid="400383" lat="49.7589420" lon="4.6035109">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="4215263781" visible="true" version="1" changeset="39663293" timestamp="2016-05-30T11:39:38Z" user="Kalaallit Nunaat" uid="400383" lat="49.7608077" lon="4.5949838">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="portal"/>
+  <tag k="source" v="Bing"/>
+ </node>
+ <node id="4621882883" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4902127" lon="5.2712408"/>
+ <node id="4621882884" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4906221" lon="5.2703235"/>
+ <node id="4621882885" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4907702" lon="5.2699802"/>
+ <node id="4621882886" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4908574" lon="5.2697280"/>
+ <node id="4621882887" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4909480" lon="5.2694652"/>
+ <node id="4621882888" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4910176" lon="5.2691755"/>
+ <node id="4621882989" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4910490" lon="5.2689234"/>
+ <node id="4621882990" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4910804" lon="5.2686230"/>
+ <node id="4621882991" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4910943" lon="5.2682206"/>
+ <node id="4621882992" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4911257" lon="5.2678666"/>
+ <node id="4621882993" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4911710" lon="5.2674803"/>
+ <node id="4621882994" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4912302" lon="5.2670565"/>
+ <node id="4621882995" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913034" lon="5.2665898"/>
+ <node id="4621882996" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913591" lon="5.2661982"/>
+ <node id="4621882997" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913731" lon="5.2658978"/>
+ <node id="4621882998" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913591" lon="5.2655438"/>
+ <node id="4621882999" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913313" lon="5.2649912"/>
+ <node id="4621883000" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913034" lon="5.2645138"/>
+ <node id="4621883001" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4912999" lon="5.2640739"/>
+ <node id="4621883002" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913138" lon="5.2634302"/>
+ <node id="4621883003" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913243" lon="5.2630171"/>
+ <node id="4621883004" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4913173" lon="5.2626792"/>
+ <node id="4621883005" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4912929" lon="5.2623734"/>
+ <node id="4621883006" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4911884" lon="5.2615795"/>
+ <node id="4621883007" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4911152" lon="5.2608982"/>
+ <node id="4621883008" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4909828" lon="5.2596107"/>
+ <node id="4621883009" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4909131" lon="5.2589134"/>
+ <node id="4621883010" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4907981" lon="5.2574328"/>
+ <node id="4621883011" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4907528" lon="5.2568534"/>
+ <node id="4621883012" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4907075" lon="5.2564779"/>
+ <node id="4621883013" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4906483" lon="5.2562097"/>
+ <node id="4621883014" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:45Z" user="foxandpotatoes" uid="117689" lat="49.4905681" lon="5.2558932"/>
+ <node id="4621883015" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4904253" lon="5.2554319"/>
+ <node id="4621883016" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4902162" lon="5.2548740"/>
+ <node id="4621883017" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4900211" lon="5.2544233"/>
+ <node id="4621883018" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4899305" lon="5.2541498"/>
+ <node id="4621883019" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4896830" lon="5.2533236"/>
+ <node id="4621883020" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4895924" lon="5.2530608"/>
+ <node id="4621883021" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4894461" lon="5.2527765"/>
+ <node id="4621883022" visible="true" version="1" changeset="45348206" timestamp="2017-01-21T12:05:46Z" user="foxandpotatoes" uid="117689" lat="49.4890767" lon="5.2511081"/>
+ <node id="4621883023" visible="true" version="2" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4889164" lon="5.2503706"/>
+ <node id="4621883024" visible="true" version="2" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4888764" lon="5.2501520"/>
+ <node id="4621883025" visible="true" version="2" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4888362" lon="5.2495525"/>
+ <node id="4769836489" visible="true" version="3" changeset="130664595" timestamp="2022-12-29T21:58:35Z" user="user_5589" uid="5589" lat="49.5909286" lon="4.9434406">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769838121" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7838869" lon="4.5680809">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769838122" visible="true" version="3" changeset="130621646" timestamp="2022-12-28T23:06:33Z" user="user_5589" uid="5589" lat="49.7733264" lon="4.5775789">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769839290" visible="true" version="2" changeset="63738938" timestamp="2018-10-21T21:32:08Z" user="InfosReseaux" uid="93222" lat="49.5152393" lon="5.1027947">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769839428" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4286572" lon="5.4390568">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769839429" visible="true" version="4" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4296655" lon="5.4279891">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769839886" visible="true" version="3" changeset="63738938" timestamp="2018-10-21T21:32:09Z" user="InfosReseaux" uid="93222" lat="49.4704942" lon="5.3077918">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769843236" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4255487" lon="5.4649514">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4769847759" visible="true" version="3" changeset="126343672" timestamp="2022-09-18T19:29:25Z" user="user_5589" uid="5589" lat="49.4409310" lon="5.6730686">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809333155" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:25Z" user="InfosReseaux" uid="93222" lat="49.4696802" lon="5.3084135">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809387427" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3541049" lon="5.6973312">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809387428" visible="true" version="5" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3573458" lon="5.6862333">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809405452" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:25Z" user="InfosReseaux" uid="93222" lat="49.4532424" lon="5.3487338">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406912" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4291362" lon="5.4282439">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406913" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4288588" lon="5.4314426">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406914" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4281671" lon="5.4389648">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406915" visible="true" version="3" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589" lat="49.4264156" lon="5.4584038">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406916" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4249920" lon="5.4649166">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406917" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4196097" lon="5.4772593">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406918" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4179744" lon="5.4809973">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406919" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4163865" lon="5.4846340">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809406920" visible="true" version="3" changeset="125786470" timestamp="2022-09-04T19:44:52Z" user="user_5589" uid="5589" lat="49.4125339" lon="5.4961628">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407210" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:26Z" user="InfosReseaux" uid="93222" lat="49.4358010" lon="5.3879316">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407921" visible="true" version="5" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4068543" lon="5.5157943">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407922" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4058372" lon="5.5193225">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407923" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3969713" lon="5.5499044">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407924" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3886473" lon="5.5785343">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809407925" visible="true" version="4" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3690093" lon="5.6460652">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809412868" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:26Z" user="InfosReseaux" uid="93222" lat="49.4573005" lon="5.3388002">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809420959" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:26Z" user="InfosReseaux" uid="93222" lat="49.4849146" lon="5.2829268">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809420961" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:26Z" user="InfosReseaux" uid="93222" lat="49.4882488" lon="5.2736896">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809423410" visible="true" version="2" changeset="64094657" timestamp="2018-11-01T21:45:26Z" user="InfosReseaux" uid="93222" lat="49.4957265" lon="5.2438883">
+  <tag k="operator" v="RTE"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809634398" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3726694" lon="5.6336226">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809634649" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3822655" lon="5.6006002">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809634897" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3757353" lon="5.6230601">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809635828" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.3844795" lon="5.5929985">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="4809638371" visible="true" version="3" changeset="126053440" timestamp="2022-09-11T15:14:31Z" user="user_5589" uid="5589" lat="49.4035450" lon="5.5272652">
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <node id="5831637931" visible="true" version="1" changeset="61648753" timestamp="2018-08-14T07:51:00Z" user="crln1" uid="2351029" lat="49.4538656" lon="5.3937469"/>
+ <node id="5831637932" visible="true" version="1" changeset="61648753" timestamp="2018-08-14T07:51:00Z" user="crln1" uid="2351029" lat="49.4538133" lon="5.3939119"/>
+ <node id="7027317355" visible="true" version="1" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4888651" lon="5.2500084"/>
+ <node id="7027317356" visible="true" version="1" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165" lat="49.4888520" lon="5.2496517"/>
+ <node id="7676225318" visible="true" version="1" changeset="87438987" timestamp="2020-07-02T08:05:56Z" user="cquest" uid="158826" lat="49.4986953" lon="5.2594739"/>
+ <node id="7800984790" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4898317" lon="5.2595932">
+  <tag k="name" v="La potence"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <node id="7800984793" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4928734" lon="5.2609095">
+  <tag k="name" v="Pré la vache"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <node id="7800984794" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4985848" lon="5.2595932"/>
+ <node id="7800984795" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4943311" lon="5.2624740"/>
+ <node id="7800984796" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4938615" lon="5.2615569"/>
+ <node id="7800984797" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4933429" lon="5.2604779"/>
+ <node id="7800984798" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4927262" lon="5.2592479"/>
+ <node id="7800984799" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4920043" lon="5.2580611"/>
+ <node id="7800984800" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4915838" lon="5.2570900"/>
+ <node id="7800984801" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4910722" lon="5.2559787"/>
+ <node id="7800984802" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4905886" lon="5.2548997"/>
+ <node id="7800984803" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4898807" lon="5.2534971"/>
+ <node id="7800984804" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4955033" lon="5.2640410"/>
+ <node id="7800984809" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4889836" lon="5.2472607"/>
+ <node id="7800984810" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4894532" lon="5.2481455"/>
+ <node id="7800984811" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4906307" lon="5.2502063"/>
+ <node id="7800984812" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4916189" lon="5.2513392"/>
+ <node id="7800984813" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4920814" lon="5.2519110"/>
+ <node id="7800984814" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4922496" lon="5.2520945"/>
+ <node id="7800984815" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4925019" lon="5.2526124"/>
+ <node id="7800984816" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4945904" lon="5.2568311"/>
+ <node id="7800984817" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4958736" lon="5.2552034"/>
+ <node id="7800984818" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4931607" lon="5.2483181"/>
+ <node id="7800984819" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4920043" lon="5.2453726"/>
+ <node id="7800984820" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4912684" lon="5.2435491"/>
+ <node id="7800984821" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4905886" lon="5.2418120"/>
+ <node id="7800984822" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4903713" lon="5.2412402"/>
+ <node id="7800984823" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4903664" lon="5.2411113"/>
+ <node id="7800984826" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268" lat="49.4959569" lon="5.2540042">
+  <tag k="name" v="Aux iles"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <node id="9028915781" visible="true" version="1" changeset="110120700" timestamp="2021-08-23T14:29:18Z" user="MrTheGeographe" uid="11508478" lat="49.7237427" lon="4.6960331"/>
+ <node id="9028915782" visible="true" version="1" changeset="110120700" timestamp="2021-08-23T14:29:18Z" user="MrTheGeographe" uid="11508478" lat="49.7237540" lon="4.6960042"/>
+ <node id="9365423531" visible="true" version="2" changeset="123942771" timestamp="2022-07-22T14:34:14Z" user="Olyon" uid="1443767" lat="49.4962886" lon="5.2570366">
+  <tag k="generator:method" v="wind_turbine"/>
+  <tag k="generator:output:electricity" v="2.2 MW"/>
+  <tag k="generator:source" v="wind"/>
+  <tag k="generator:type" v="horizontal_axis"/>
+  <tag k="power" v="generator"/>
+  <tag k="source" v="IGN - 2021-06"/>
+ </node>
+ <node id="10605666476" visible="true" version="1" changeset="132068025" timestamp="2023-02-04T09:08:24Z" user="Zesty Eagle" uid="9755606" lat="49.6855541" lon="4.7779288"/>
+ <node id="11115073237" visible="true" version="1" changeset="139888594" timestamp="2023-08-14T20:37:39Z" user="Jean-Baptiste CHARRON" uid="8241440" lat="49.4369328" lon="5.3855638">
+  <tag k="line_management" v="branch"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="tower"/>
+ </node>
+ <way id="82825440" visible="true" version="34" changeset="132068025" timestamp="2023-02-04T09:08:24Z" user="Zesty Eagle" uid="9755606">
+  <nd ref="966138021"/>
+  <nd ref="966138554"/>
+  <nd ref="966138668"/>
+  <nd ref="966138135"/>
+  <nd ref="966138234"/>
+  <nd ref="966138053"/>
+  <nd ref="966138342"/>
+  <nd ref="966138460"/>
+  <nd ref="966138158"/>
+  <nd ref="966138371"/>
+  <nd ref="966138575"/>
+  <nd ref="966138254"/>
+  <nd ref="966138070"/>
+  <nd ref="966138494"/>
+  <nd ref="966137954"/>
+  <nd ref="966138178"/>
+  <nd ref="966138615"/>
+  <nd ref="966138651"/>
+  <nd ref="966138215"/>
+  <nd ref="966138030"/>
+  <nd ref="966138203"/>
+  <nd ref="966138011"/>
+  <nd ref="4769847759"/>
+  <nd ref="966138310"/>
+  <nd ref="966138124"/>
+  <nd ref="966138424"/>
+  <nd ref="966138227"/>
+  <nd ref="966138661"/>
+  <nd ref="966138333"/>
+  <nd ref="966138550"/>
+  <nd ref="966138446"/>
+  <nd ref="966138041"/>
+  <nd ref="966138188"/>
+  <nd ref="966138627"/>
+  <nd ref="966138083"/>
+  <nd ref="966138499"/>
+  <nd ref="966138571"/>
+  <nd ref="966138413"/>
+  <nd ref="966138112"/>
+  <nd ref="966138067"/>
+  <nd ref="966138364"/>
+  <nd ref="966138172"/>
+  <nd ref="966138604"/>
+  <nd ref="966138280"/>
+  <nd ref="966138483"/>
+  <nd ref="966138396"/>
+  <nd ref="966138343"/>
+  <nd ref="966138461"/>
+  <nd ref="966138589"/>
+  <nd ref="966138616"/>
+  <nd ref="966138495"/>
+  <nd ref="966138168"/>
+  <nd ref="966138284"/>
+  <nd ref="966138479"/>
+  <nd ref="966138390"/>
+  <nd ref="966138600"/>
+  <nd ref="966138452"/>
+  <nd ref="966138514"/>
+  <nd ref="4769843236"/>
+  <nd ref="966138049"/>
+  <nd ref="966138156"/>
+  <nd ref="966138250"/>
+  <nd ref="966138366"/>
+  <nd ref="966138173"/>
+  <nd ref="4769839428"/>
+  <nd ref="966138283"/>
+  <nd ref="4769839429"/>
+  <nd ref="966138634"/>
+  <nd ref="966138518"/>
+  <nd ref="966138399"/>
+  <nd ref="966138304"/>
+  <nd ref="966138010"/>
+  <nd ref="966138591"/>
+  <nd ref="966138225"/>
+  <nd ref="966138422"/>
+  <nd ref="966137960"/>
+  <nd ref="966138082"/>
+  <nd ref="966138619"/>
+  <nd ref="966138186"/>
+  <nd ref="966138294"/>
+  <nd ref="966138407"/>
+  <nd ref="966138209"/>
+  <nd ref="966138649"/>
+  <nd ref="966138553"/>
+  <nd ref="966138133"/>
+  <nd ref="966138667"/>
+  <nd ref="4769839886"/>
+  <nd ref="966138051"/>
+  <nd ref="966138337"/>
+  <nd ref="966138493"/>
+  <nd ref="966138369"/>
+  <nd ref="966138457"/>
+  <nd ref="966138069"/>
+  <nd ref="966138681"/>
+  <nd ref="966138066"/>
+  <nd ref="966138197"/>
+  <nd ref="966138091"/>
+  <nd ref="966138385"/>
+  <nd ref="966138597"/>
+  <nd ref="966138166"/>
+  <nd ref="966138357"/>
+  <nd ref="966138075"/>
+  <nd ref="966138286"/>
+  <nd ref="966138496"/>
+  <nd ref="966138617"/>
+  <nd ref="966138646"/>
+  <nd ref="966138104"/>
+  <nd ref="966138388"/>
+  <nd ref="966138093"/>
+  <nd ref="966138152"/>
+  <nd ref="966138013"/>
+  <nd ref="966138437"/>
+  <nd ref="966138557"/>
+  <nd ref="966138325"/>
+  <nd ref="966138675"/>
+  <nd ref="966138462"/>
+  <nd ref="966138159"/>
+  <nd ref="966138380"/>
+  <nd ref="966138086"/>
+  <nd ref="966138415"/>
+  <nd ref="4769839290"/>
+  <nd ref="966138298"/>
+  <nd ref="966138001"/>
+  <nd ref="966138116"/>
+  <nd ref="966138319"/>
+  <nd ref="966138211"/>
+  <nd ref="966138281"/>
+  <nd ref="966138613"/>
+  <nd ref="966137978"/>
+  <nd ref="966138633"/>
+  <nd ref="966138006"/>
+  <nd ref="966138119"/>
+  <nd ref="966138419"/>
+  <nd ref="966138140"/>
+  <nd ref="966138683"/>
+  <nd ref="966138362"/>
+  <nd ref="966138170"/>
+  <nd ref="966138480"/>
+  <nd ref="966138314"/>
+  <nd ref="966138015"/>
+  <nd ref="966138552"/>
+  <nd ref="966138663"/>
+  <nd ref="966138047"/>
+  <nd ref="966138154"/>
+  <nd ref="966138292"/>
+  <nd ref="966138105"/>
+  <nd ref="966138404"/>
+  <nd ref="4769836489"/>
+  <nd ref="966138139"/>
+  <nd ref="966138439"/>
+  <nd ref="966138245"/>
+  <nd ref="966138568"/>
+  <nd ref="966138353"/>
+  <nd ref="966138677"/>
+  <nd ref="966138464"/>
+  <nd ref="966138059"/>
+  <nd ref="966138595"/>
+  <nd ref="966138193"/>
+  <nd ref="966138382"/>
+  <nd ref="966138088"/>
+  <nd ref="966138265"/>
+  <nd ref="966137968"/>
+  <nd ref="966138164"/>
+  <nd ref="966138629"/>
+  <nd ref="966138300"/>
+  <nd ref="966138512"/>
+  <nd ref="966138417"/>
+  <nd ref="966138003"/>
+  <nd ref="966138533"/>
+  <nd ref="966138117"/>
+  <nd ref="966138213"/>
+  <nd ref="966138028"/>
+  <nd ref="966138321"/>
+  <nd ref="966138435"/>
+  <nd ref="966138136"/>
+  <nd ref="966138236"/>
+  <nd ref="966138556"/>
+  <nd ref="966138347"/>
+  <nd ref="966138673"/>
+  <nd ref="966138540"/>
+  <nd ref="966138121"/>
+  <nd ref="966138654"/>
+  <nd ref="10605666476"/>
+  <nd ref="966138222"/>
+  <nd ref="966138039"/>
+  <nd ref="966138331"/>
+  <nd ref="966138141"/>
+  <nd ref="966138444"/>
+  <nd ref="966138570"/>
+  <nd ref="2000110351"/>
+  <nd ref="966138249"/>
+  <nd ref="965384531"/>
+  <nd ref="965384492"/>
+  <nd ref="965384476"/>
+  <nd ref="965384505"/>
+  <nd ref="965384490"/>
+  <nd ref="965384521"/>
+  <nd ref="965384501"/>
+  <nd ref="9028915781"/>
+  <nd ref="9028915782"/>
+  <nd ref="965384460"/>
+  <nd ref="965384516"/>
+  <nd ref="965384494"/>
+  <nd ref="965384478"/>
+  <nd ref="965384486"/>
+  <nd ref="965384523"/>
+  <nd ref="965384514"/>
+  <nd ref="965384483"/>
+  <nd ref="965384487"/>
+  <nd ref="965384533"/>
+  <nd ref="965384499"/>
+  <nd ref="965384518"/>
+  <nd ref="965363508"/>
+  <nd ref="965363474"/>
+  <nd ref="965363516"/>
+  <nd ref="965363486"/>
+  <nd ref="965363521"/>
+  <nd ref="965363498"/>
+  <nd ref="4215263779"/>
+  <nd ref="4215263780"/>
+  <nd ref="965363482"/>
+  <nd ref="4215263781"/>
+  <nd ref="965363488"/>
+  <nd ref="965363471"/>
+  <nd ref="965363501"/>
+  <nd ref="965363485"/>
+  <nd ref="4769838122"/>
+  <nd ref="965363506"/>
+  <nd ref="965363489"/>
+  <nd ref="4769838121"/>
+  <nd ref="965363514"/>
+  <nd ref="965363504"/>
+  <nd ref="965363466"/>
+  <nd ref="965363510"/>
+  <nd ref="965363484"/>
+  <nd ref="965363519"/>
+  <nd ref="963918738"/>
+  <nd ref="963918770"/>
+  <nd ref="963918190"/>
+  <nd ref="963918783"/>
+  <tag k="cables" v="6"/>
+  <tag k="circuits" v="2"/>
+  <tag k="name" v="Liaison 400 kV n°1 Lonny - Moulaine"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="operator:wikipedia" v="fr:RTE (entreprise)"/>
+  <tag k="power" v="line"/>
+  <tag k="source" v="Cnes/SPOT image"/>
+  <tag k="voltage" v="400000"/>
+  <tag k="wires" v="triple"/>
+ </way>
+ <way id="356362695" visible="true" version="6" changeset="129789226" timestamp="2022-12-06T16:15:53Z" user="user_5589" uid="5589">
+  <nd ref="3610163720"/>
+  <nd ref="3610163722"/>
+  <nd ref="3610163715"/>
+  <nd ref="3610163716"/>
+  <nd ref="3610163717"/>
+  <nd ref="3610163710"/>
+  <nd ref="3610163718"/>
+  <nd ref="3606640687"/>
+  <nd ref="3606640685"/>
+  <nd ref="3606640686"/>
+  <nd ref="3606640684"/>
+  <nd ref="3606640675"/>
+  <nd ref="3606640676"/>
+  <nd ref="3606640674"/>
+  <nd ref="3606640673"/>
+  <nd ref="3606640672"/>
+  <nd ref="3606640671"/>
+  <nd ref="3606640670"/>
+  <nd ref="3606640669"/>
+  <nd ref="3606640667"/>
+  <nd ref="3606640668"/>
+  <nd ref="3606640666"/>
+  <nd ref="3606640664"/>
+  <nd ref="3606640665"/>
+  <nd ref="3606640662"/>
+  <nd ref="3606640663"/>
+  <nd ref="3606640661"/>
+  <nd ref="3606640656"/>
+  <nd ref="3606640657"/>
+  <nd ref="3606640658"/>
+  <nd ref="3606640659"/>
+  <nd ref="3606640660"/>
+  <nd ref="3606640651"/>
+  <nd ref="3606640652"/>
+  <nd ref="3606640653"/>
+  <nd ref="3606640654"/>
+  <nd ref="3606640655"/>
+  <nd ref="3606640650"/>
+  <nd ref="3606640649"/>
+  <nd ref="3606640648"/>
+  <nd ref="3606640645"/>
+  <nd ref="3606640647"/>
+  <nd ref="3606640646"/>
+  <nd ref="3606640643"/>
+  <nd ref="3606640644"/>
+  <nd ref="3606640640"/>
+  <nd ref="3606640641"/>
+  <nd ref="3606640642"/>
+  <nd ref="3606640639"/>
+  <nd ref="3606640638"/>
+  <nd ref="3606640637"/>
+  <nd ref="3606640634"/>
+  <nd ref="3606640633"/>
+  <nd ref="3606640635"/>
+  <nd ref="3606640636"/>
+  <nd ref="3606640632"/>
+  <nd ref="3606640628"/>
+  <nd ref="3606640629"/>
+  <nd ref="3606640630"/>
+  <nd ref="3606640631"/>
+  <nd ref="3606640627"/>
+  <nd ref="3606640624"/>
+  <nd ref="3606640623"/>
+  <nd ref="3606640622"/>
+  <nd ref="3606640625"/>
+  <nd ref="3606640626"/>
+  <nd ref="3606640616"/>
+  <nd ref="3606640617"/>
+  <nd ref="3606640618"/>
+  <nd ref="3606640619"/>
+  <nd ref="3606640620"/>
+  <nd ref="3606640621"/>
+  <nd ref="3606640610"/>
+  <nd ref="3606640611"/>
+  <nd ref="3606640612"/>
+  <nd ref="3606640613"/>
+  <nd ref="3606640614"/>
+  <nd ref="3606640615"/>
+  <nd ref="3606632363"/>
+  <nd ref="3606632362"/>
+  <nd ref="3606632364"/>
+  <nd ref="3606632365"/>
+  <nd ref="3606632366"/>
+  <nd ref="3606632367"/>
+  <nd ref="3606632368"/>
+  <nd ref="3618208252"/>
+  <nd ref="5831637931"/>
+  <nd ref="5831637932"/>
+  <nd ref="3618208251"/>
+  <nd ref="3618208253"/>
+  <nd ref="3618208254"/>
+  <nd ref="3618208257"/>
+  <nd ref="3618208258"/>
+  <nd ref="3618225686"/>
+  <nd ref="3618225685"/>
+  <nd ref="3618225687"/>
+  <nd ref="3618225688"/>
+  <nd ref="3618225689"/>
+  <tag k="cables" v="3"/>
+  <tag k="operator" v="Enedis"/>
+  <tag k="operator:wikidata" v="Q3587594"/>
+  <tag k="power" v="minor_line"/>
+  <tag k="voltage" v="20000"/>
+ </way>
+ <way id="368668829" visible="true" version="21" changeset="139888594" timestamp="2023-08-14T20:37:39Z" user="Jean-Baptiste CHARRON" uid="8241440">
+  <nd ref="2193272947"/>
+  <nd ref="966137972"/>
+  <nd ref="966138402"/>
+  <nd ref="966137992"/>
+  <nd ref="966138520"/>
+  <nd ref="966138375"/>
+  <nd ref="966138183"/>
+  <nd ref="966138262"/>
+  <nd ref="4809423410"/>
+  <nd ref="966138466"/>
+  <nd ref="966138266"/>
+  <nd ref="966137970"/>
+  <nd ref="966138513"/>
+  <nd ref="966138630"/>
+  <nd ref="4809420961"/>
+  <nd ref="966138246"/>
+  <nd ref="4809420959"/>
+  <nd ref="966138252"/>
+  <nd ref="966138574"/>
+  <nd ref="966137953"/>
+  <nd ref="966138157"/>
+  <nd ref="966138232"/>
+  <nd ref="4809333155"/>
+  <nd ref="966138433"/>
+  <nd ref="1401130606"/>
+  <nd ref="966138019"/>
+  <nd ref="966138316"/>
+  <nd ref="966138531"/>
+  <nd ref="966138107"/>
+  <nd ref="4809412868"/>
+  <nd ref="4809405452"/>
+  <nd ref="966138498"/>
+  <nd ref="966137998"/>
+  <nd ref="966138378"/>
+  <nd ref="966138123"/>
+  <nd ref="966138263"/>
+  <nd ref="966138549"/>
+  <nd ref="11115073237"/>
+  <nd ref="4809407210"/>
+  <nd ref="966138201"/>
+  <nd ref="966138614"/>
+  <nd ref="966137982"/>
+  <nd ref="966138102"/>
+  <nd ref="4809406912"/>
+  <nd ref="4809406913"/>
+  <nd ref="4809406914"/>
+  <nd ref="966138485"/>
+  <nd ref="966138068"/>
+  <nd ref="966137952"/>
+  <nd ref="4809406915"/>
+  <nd ref="966138572"/>
+  <nd ref="4809406916"/>
+  <nd ref="966137976"/>
+  <nd ref="966138666"/>
+  <nd ref="4809406917"/>
+  <nd ref="4809406918"/>
+  <nd ref="4809406919"/>
+  <nd ref="966138278"/>
+  <nd ref="966137989"/>
+  <nd ref="4809406920"/>
+  <nd ref="966138181"/>
+  <nd ref="966138373"/>
+  <nd ref="966137957"/>
+  <nd ref="966138073"/>
+  <nd ref="4809407921"/>
+  <nd ref="4809407922"/>
+  <nd ref="4809638371"/>
+  <nd ref="966138261"/>
+  <nd ref="966138669"/>
+  <nd ref="1477853116"/>
+  <nd ref="4809407923"/>
+  <nd ref="1477853113"/>
+  <nd ref="1477853111"/>
+  <nd ref="1477853110"/>
+  <nd ref="4809407924"/>
+  <nd ref="1477853105"/>
+  <nd ref="4809635828"/>
+  <nd ref="4809634649"/>
+  <nd ref="1477853104"/>
+  <nd ref="1477853103"/>
+  <nd ref="1477853102"/>
+  <nd ref="4809634897"/>
+  <nd ref="1477853101"/>
+  <nd ref="4809634398"/>
+  <nd ref="1477853099"/>
+  <nd ref="4809407925"/>
+  <nd ref="1477853094"/>
+  <nd ref="3168331281"/>
+  <nd ref="3168331238"/>
+  <nd ref="3168331180"/>
+  <nd ref="1477853092"/>
+  <nd ref="4809387428"/>
+  <nd ref="1477853090"/>
+  <nd ref="4809387427"/>
+  <nd ref="1477853089"/>
+  <nd ref="1949891852"/>
+  <nd ref="1949891849"/>
+  <nd ref="1949891846"/>
+  <nd ref="1949891843"/>
+  <nd ref="1949891841"/>
+  <nd ref="1949891832"/>
+  <nd ref="1949891831"/>
+  <nd ref="1949891830"/>
+  <nd ref="1949891829"/>
+  <nd ref="3725204852"/>
+  <nd ref="1949891827"/>
+  <nd ref="3725204851"/>
+  <nd ref="1949891789"/>
+  <nd ref="1949891754"/>
+  <nd ref="3965008482"/>
+  <tag k="cables" v="3"/>
+  <tag k="circuits" v="1"/>
+  <tag k="name" v="Liaison 225 kV n°1 Landres - Stenay"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="operator:wikidata" v="Q2178795"/>
+  <tag k="power" v="line"/>
+  <tag k="ref:FR:RTE" v="LANDRL61STENA"/>
+  <tag k="source" v="Cnes/SPOT image"/>
+  <tag k="voltage" v="225000"/>
+  <tag k="wires" v="single"/>
+ </way>
+ <way id="467584888" visible="true" version="5" changeset="77844494" timestamp="2019-12-02T22:27:11Z" user="Denis_Helfer" uid="22165">
+  <nd ref="2339696735"/>
+  <nd ref="4621883025"/>
+  <nd ref="7027317356"/>
+  <nd ref="7027317355"/>
+  <nd ref="4621883024"/>
+  <nd ref="4621883023"/>
+  <nd ref="4621883022"/>
+  <nd ref="4621883021"/>
+  <nd ref="4621883020"/>
+  <nd ref="4621883019"/>
+  <nd ref="4621883018"/>
+  <nd ref="4621883017"/>
+  <nd ref="4621883016"/>
+  <nd ref="4621883015"/>
+  <nd ref="4621883014"/>
+  <nd ref="4621883013"/>
+  <nd ref="4621883012"/>
+  <nd ref="4621883011"/>
+  <nd ref="4621883010"/>
+  <nd ref="4621883009"/>
+  <nd ref="4621883008"/>
+  <nd ref="4621883007"/>
+  <nd ref="4621883006"/>
+  <nd ref="4621883005"/>
+  <nd ref="4621883004"/>
+  <nd ref="4621883003"/>
+  <nd ref="4621883002"/>
+  <nd ref="4621883001"/>
+  <nd ref="4621883000"/>
+  <nd ref="4621882999"/>
+  <nd ref="4621882998"/>
+  <nd ref="4621882997"/>
+  <nd ref="4621882996"/>
+  <nd ref="4621882995"/>
+  <nd ref="4621882994"/>
+  <nd ref="4621882993"/>
+  <nd ref="4621882992"/>
+  <nd ref="4621882991"/>
+  <nd ref="4621882990"/>
+  <nd ref="4621882989"/>
+  <nd ref="4621882888"/>
+  <nd ref="4621882887"/>
+  <nd ref="4621882886"/>
+  <nd ref="4621882885"/>
+  <nd ref="4621882884"/>
+  <nd ref="4621882883"/>
+  <tag k="highway" v="track"/>
+  <tag k="name" v="Chemin Vicinal Ordinaire de Baalon"/>
+  <tag k="ref" v="C 4"/>
+  <tag k="tracktype" v="grade2"/>
+ </way>
+ <way id="835762213" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268">
+  <nd ref="7676225318"/>
+  <nd ref="7800984794"/>
+  <nd ref="7800984804"/>
+  <nd ref="735085280"/>
+  <nd ref="7800984795"/>
+  <nd ref="7800984796"/>
+  <nd ref="7800984797"/>
+  <nd ref="7800984798"/>
+  <nd ref="7800984799"/>
+  <nd ref="7800984800"/>
+  <nd ref="7800984801"/>
+  <nd ref="7800984802"/>
+  <nd ref="7800984803"/>
+  <nd ref="4621883020"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="835762215" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268">
+  <nd ref="2339696744"/>
+  <nd ref="7800984809"/>
+  <nd ref="7800984810"/>
+  <nd ref="7800984811"/>
+  <nd ref="7800984812"/>
+  <nd ref="7800984813"/>
+  <nd ref="7800984814"/>
+  <nd ref="7800984815"/>
+  <nd ref="7800984816"/>
+  <nd ref="7800984817"/>
+  <nd ref="652851573"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="835762216" visible="true" version="1" changeset="89198326" timestamp="2020-08-10T12:04:49Z" user="Jeece" uid="1455268">
+  <nd ref="7800984817"/>
+  <nd ref="7800984818"/>
+  <nd ref="7800984819"/>
+  <nd ref="7800984820"/>
+  <nd ref="7800984821"/>
+  <nd ref="7800984822"/>
+  <nd ref="7800984823"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <relation id="6170184" visible="true" version="3" changeset="64181149" timestamp="2018-11-04T23:39:13Z" user="InfosReseaux" uid="93222">
+  <member type="way" ref="82825438" role="substation"/>
+  <member type="way" ref="82825439" role="line"/>
+  <member type="way" ref="82825440" role="line"/>
+  <member type="way" ref="184559688" role="line"/>
+  <member type="way" ref="225210595" role="substation"/>
+  <tag k="cables" v="3"/>
+  <tag k="frequency" v="50"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="ref:FR:RTE" v="LONNYL72MOULA"/>
+  <tag k="route" v="power"/>
+  <tag k="type" v="route"/>
+  <tag k="voltage" v="400000"/>
+ </relation>
+ <relation id="6170188" visible="true" version="3" changeset="64181149" timestamp="2018-11-04T23:39:13Z" user="InfosReseaux" uid="93222">
+  <member type="way" ref="225210595" role="substation"/>
+  <member type="way" ref="83044616" role="line"/>
+  <member type="way" ref="82825440" role="line"/>
+  <member type="way" ref="551232639" role="line"/>
+  <member type="way" ref="82825438" role="substation"/>
+  <tag k="cables" v="3"/>
+  <tag k="frequency" v="50"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="ref:FR:RTE" v="LONNYL71MOULA"/>
+  <tag k="route" v="power"/>
+  <tag k="type" v="route"/>
+  <tag k="voltage" v="400000"/>
+ </relation>
+ <relation id="8890476" visible="true" version="1" changeset="64181149" timestamp="2018-11-04T23:38:36Z" user="InfosReseaux" uid="93222">
+  <member type="way" ref="147398278" role="substation"/>
+  <member type="way" ref="548506162" role="line"/>
+  <member type="way" ref="209099029" role="line"/>
+  <member type="way" ref="368668829" role="line"/>
+  <member type="way" ref="184492595" role="substation"/>
+  <tag k="cables" v="3"/>
+  <tag k="frequency" v="50"/>
+  <tag k="operator" v="RTE"/>
+  <tag k="ref:FR:RTE" v="LANDRL61STENA"/>
+  <tag k="route" v="power"/>
+  <tag k="type" v="route"/>
+  <tag k="voltage" v="225000"/>
+ </relation>
+ <relation id="14376988" visible="true" version="1" changeset="123942771" timestamp="2022-07-22T14:34:14Z" user="Olyon" uid="1443767">
+  <member type="node" ref="9365423533" role=""/>
+  <member type="node" ref="9365423531" role=""/>
+  <member type="node" ref="9365423532" role=""/>
+  <tag k="name" v="Parc éolien de Baâlon"/>
+  <tag k="plant:method" v="wind_turbine"/>
+  <tag k="plant:output:electricity" v="6.6 MW"/>
+  <tag k="plant:source" v="wind"/>
+  <tag k="power" v="plant"/>
+  <tag k="ref:EU:ENTSOE_EIC" v="17W000001023362S"/>
+  <tag k="source" v="Registre national des installations de production d'électricité et de stockage 2022"/>
+  <tag k="start_date" v="2021-01-03"/>
+  <tag k="type" v="site"/>
+ </relation>
+</osm>

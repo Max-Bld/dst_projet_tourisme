@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1565980 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.8719415" minlon="5.0427246" maxlat="48.8791671" maxlon="5.0537109"/>
+ <node id="6764093065" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8784757" lon="5.0424456"/>
+ <node id="6764093066" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8755545" lon="5.0402140"/>
+ <node id="6764093067" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8739950" lon="5.0393128"/>
+ <node id="6764093068" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8727883" lon="5.0418556"/>
+ <node id="6764093069" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8722238" lon="5.0430143"/>
+ <node id="6764093083" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121" lat="48.8707277" lon="5.0456643"/>
+ <way id="720912673" visible="true" version="1" changeset="73974731" timestamp="2019-09-01T14:47:24Z" user="Eric-Chambly" uid="1002121">
+  <nd ref="6764093083"/>
+  <nd ref="6764093069"/>
+  <nd ref="6764093068"/>
+  <nd ref="6764093067"/>
+  <nd ref="6764093066"/>
+  <nd ref="6764093065"/>
+  <tag k="highway" v="track"/>
+ </way>
+</osm>
