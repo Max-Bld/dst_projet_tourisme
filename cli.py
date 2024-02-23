@@ -18,6 +18,21 @@ from display import visualize_data
 import webbrowser
 
 def se_geolocaliser(latitude_user, longitude_user):
+    """
+    Géolocalise l'utilisateur selon deux modes : manuel ou aléatoire.
+    
+    Parameters
+    ----------
+    latitude_user : float
+        Valeur angulaire des parallèles Nord-Sud (-90° au pôle sud, 0° à l'équateur, 90° au pôle nord).
+    longitude_user : float
+        Valeur angulaire des méridiens Est-Ouest (-180° à 180°, 0° au méridien de Greenwich).
+
+    Returns
+    -------
+    None.
+
+    """
     
         # Géolocalisation de l'utilisateur
     
@@ -45,6 +60,19 @@ def se_geolocaliser(latitude_user, longitude_user):
         exit()
 
 def choisir_perimetre(perimetre_user):
+    """
+    Propose deux modes pour déterminer le périmètre de déplacement de l'utilisateur : manuel ou aléatoire.
+
+    Parameters
+    ----------
+    perimetre_user : float
+        Périmètre en mètre de déplacement de l'utilisateur.
+
+    Returns
+    -------
+    None.
+
+    """
     
     entree=input("""\nChoisissez le périmètre :
         
@@ -70,6 +98,15 @@ def choisir_perimetre(perimetre_user):
         exit()
     
 def choisir_preferences():
+    """
+    
+
+    Returns
+    -------
+    query_element : TYPE
+        DESCRIPTION.
+
+    """
         
     entree=input("""\nQue cherchez vous :
         (a) Restaurant
